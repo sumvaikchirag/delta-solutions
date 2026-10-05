@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /thanks.php
+Disallow: /under-construction.php
+Disallow: /ajax-action.php
+Sitemap: https://delta-solutions.in/sitemap.xml

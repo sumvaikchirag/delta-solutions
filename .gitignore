@@ -1,0 +1,6 @@
+.vscode/sftp.json
+.env
+mail-config.php
+error_log
+log.txt
+.ftpquota

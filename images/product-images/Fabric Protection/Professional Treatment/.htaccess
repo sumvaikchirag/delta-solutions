@@ -1,0 +1,3 @@
+<FilesMatch "Scotchgard\.pdf$">
+Header set Link "https://delta-solutions.in/images/product-images/Fabric Protection/Professional Treatment/FAQs - Scotchgard.pdf; rel=canonical"
+</FilesMatch>

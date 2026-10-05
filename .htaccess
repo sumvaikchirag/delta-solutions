@@ -1,0 +1,23 @@
+# Ensure that mod_rewrite is enabled
+RewriteEngine On
+
+# Redirect all HTTP requests to HTTPS
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Redirect www to non-www (fixed: stays on https, no extra hop)
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
+
+# Redirect /index and /index.php to the homepage
+RewriteCond %{THE_REQUEST} \s/+index(\.php)?[\s?] [NC]
+RewriteRule ^ /? [R=301,L]
+
+# Remove .php extension from URLs
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php [L,QSA]
+
+# Optionally redirect .php URLs to extension-less URLs
+RewriteCond %{THE_REQUEST} "^[A-Z]{3,9}\ /.*\.php\ HTTP/"
+RewriteRule ^(.*)\.php$ /$1 [R=301,L]

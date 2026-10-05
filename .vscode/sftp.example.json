@@ -1,0 +1,21 @@
+{
+  "name": "delta-solutions.in",
+  "host": "delta-solutions.in",
+  "protocol": "ftp",
+  "port": 21,
+  "username": "YOUR_FTP_USERNAME@delta-solutions.in",
+  "password": "YOUR_FTP_PASSWORD",
+  "remotePath": "/",
+  "uploadOnSave": true,
+  "watcher": {
+    "files": "**/*",
+    "autoUpload": true,
+    "autoDelete": false
+  },
+  "secure": false,
+  "ignore": [
+    ".vscode", ".git", ".gitignore", ".gitattributes", ".DS_Store", "node_modules", "vendor", "error_log",
+    "/bhotikagroup.co.in", "/cgi-bin", "/crm.delta-solutions.in",
+    "/delta-solutions.in", "/deltasolutions", "/magia.co.in", "/tbsonline.in", "/.well-known"
+  ]
+}

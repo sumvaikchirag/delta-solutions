@@ -121,13 +121,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                 <li>
                   <span class="icon"><i class="fa fa-map-marker" aria-hidden="true"></i></span>
-                  <h5>Address</h5>
+                  <h5>Address 1</h5>
                   <p>
-                    712, Ansal Chambers-II,<br>
-                    6, Bhikaji Cama Place,<br>
-                    New Delhi - 110066,<br>
-                    Delhi, India.<br>
-                    <a href="https://goo.gl/maps/u2UidFHQeqYx4JNcA" target="_blank"><b>View location</b></a>
+                    1st floor, F - 3/9, Pocket F,<br>
+                    Okhla Phase I, Okhla Industrial Estate,<br>
+                    New Delhi, Delhi 110020.<br>
+                    <a href="https://www.google.com/maps/search/?api=1&query=1st+floor,+F-3/9,+Pocket+F,+Okhla+Phase+I,+Okhla+Industrial+Estate,+New+Delhi,+Delhi+110020" target="_blank"><b>View location</b></a>
+                  </p>
+                </li>
+
+                <li>
+                  <span class="icon"><i class="fa fa-map-marker" aria-hidden="true"></i></span>
+                  <h5>Address 2</h5>
+                  <p>
+                    39 KM, Jaipur - Delhi Expy,<br>
+                    near Shani Mandir, Mohammed Pur,<br>
+                    Sector 35, Gurugram,<br>
+                    Haryana 122004.<br>
+                    <a href="https://www.google.com/maps/search/?api=1&query=39+KM,+Jaipur+-+Delhi+Expy,+near+Shani+Mandir,+Mohammed+Pur,+Sector+35,+Gurugram,+Haryana+122004" target="_blank"><b>View location</b></a>
                   </p>
                 </li>
 
@@ -198,6 +209,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               </div>
 
             </div>
+
+            <!-- Office Maps -->
+            <div class="office-maps">
+              <div class="office-map-box">
+                <h4><i class="fa fa-map-marker" aria-hidden="true"></i> Address 1 - Okhla, New Delhi</h4>
+                <iframe
+                  src="https://www.google.com/maps?q=1st+floor,+F-3/9,+Pocket+F,+Okhla+Phase+I,+Okhla+Industrial+Estate,+New+Delhi,+Delhi+110020&output=embed"
+                  width="100%" height="280" style="border:0;" allowfullscreen="" loading="lazy"
+                  referrerpolicy="no-referrer-when-downgrade" title="Delta Solutions - Okhla, New Delhi"></iframe>
+              </div>
+              <div class="office-map-box">
+                <h4><i class="fa fa-map-marker" aria-hidden="true"></i> Address 2 - Sector 35, Gurugram</h4>
+                <iframe
+                  src="https://www.google.com/maps?q=39+KM,+Jaipur+-+Delhi+Expy,+near+Shani+Mandir,+Mohammed+Pur,+Sector+35,+Gurugram,+Haryana+122004&output=embed"
+                  width="100%" height="280" style="border:0;" allowfullscreen="" loading="lazy"
+                  referrerpolicy="no-referrer-when-downgrade" title="Delta Solutions - Gurugram, Haryana"></iframe>
+              </div>
+            </div>
+            <!-- End Office Maps -->
           </div>
         </div>
 
@@ -205,19 +235,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
   </section>
   <!-- End Contact Section -->
-
-  <!-- Contact Map Section -->
-  <section class="contact-map-section">
-    <div class="map-outer">
-      <!-- Optional Google Map -->
-      <!--
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!...your map code..." 
-      width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" 
-      aria-hidden="false" tabindex="0"></iframe>
-      -->
-    </div>
-  </section>
-  <!-- End Contact Map Section -->
 
   <?php include 'footer.php';?>
 
@@ -252,6 +269,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   .contact-option a:hover {
     transform: translateY(-5px);
     opacity: 0.9;
+  }
+
+  .office-maps { margin-top: 30px; text-align: left; }
+  .office-map-box { margin-bottom: 25px; }
+  .office-map-box h4 {
+    margin: 0 0 12px;
+    font-size: 18px;
+    font-weight: 600;
+  }
+  .office-map-box h4 i {
+    color: #ed3237;
+    margin-right: 6px;
+  }
+  .office-map-box iframe {
+    display: block;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.15);
   }
 </style>
 

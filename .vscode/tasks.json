@@ -1,0 +1,13 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Run website locally",
+      "type": "shell",
+      "command": "php -S 127.0.0.1:8080 -t '${workspaceFolder}' '${workspaceFolder}\\.vscode\\router.php'",
+      "isBackground": true,
+      "problemMatcher": [],
+      "presentation": { "reveal": "always", "panel": "dedicated" }
+    }
+  ]
+}

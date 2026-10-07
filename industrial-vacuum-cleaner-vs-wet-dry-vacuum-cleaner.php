@@ -3,7 +3,7 @@
 $title = 'Industrial Vacuum Cleaner vs Wet & Dry Vacuum Cleaner: What\'s the Difference?';
 $category = 'Industrial Cleaning';
 $publishDate = 'Dec 19, 2025';
-$featuredImage = 'images/blogs/industrial-vacuum-cleaner-vs-wet-dry-vacuum-cleaner.webp';
+$featuredImage = '/images/blogs/industrial-vacuum-cleaner-vs-wet-dry-vacuum-cleaner.webp';
 $excerpt = 'Understand the difference between industrial and wet & dry vacuum cleaners, including their applications, filtration, capacity, suction and operating requirements.';
 // $authorName = 'Admin';
 // $authorRole = 'Delta Solutions';
@@ -23,18 +23,18 @@ $excerpt = 'Understand the difference between industrial and wet & dry vacuum cl
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
 <!--Favicon-->
-<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
-<link rel="icon" href="images/favicon.png" type="image/x-icon">
+<link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon">
+<link rel="icon" href="/images/favicon.png" type="image/x-icon">
 
 <!--Canonical & HrefLang-->
-<link rel="canonical" href="https://delta-solutions.in/industrial-vacuum-cleaner-vs-wet-dry-vacuum-cleaner" />
-<link rel="alternate" href="https://delta-solutions.in/industrial-vacuum-cleaner-vs-wet-dry-vacuum-cleaner" hreflang="x-default">
-<link rel="alternate" href="https://delta-solutions.in/industrial-vacuum-cleaner-vs-wet-dry-vacuum-cleaner" hreflang="en-IN">
+<link rel="canonical" href="https://delta-solutions.in/blog/industrial-vacuum-cleaner-vs-wet-dry-vacuum-cleaner" />
+<link rel="alternate" href="https://delta-solutions.in/blog/industrial-vacuum-cleaner-vs-wet-dry-vacuum-cleaner" hreflang="x-default">
+<link rel="alternate" href="https://delta-solutions.in/blog/industrial-vacuum-cleaner-vs-wet-dry-vacuum-cleaner" hreflang="en-IN">
 
 <!--OG Tags-->
   <meta property="og:title" content="Industrial Vacuum Cleaner vs Wet & Dry Vacuum Cleaner | Delta Solutions Guide">
   <meta property="og:site_name" content="Delta Solutions">
-  <meta property="og:url" content="/blog/industrial-vacuum-cleaner-vs-wet-dry-vacuum-cleaner">
+  <meta property="og:url" content="https://delta-solutions.in/blog/industrial-vacuum-cleaner-vs-wet-dry-vacuum-cleaner">
   <meta property="og:description" content="Compare industrial and wet & dry vacuum cleaners by suction, filtration, capacity, applications and duty cycle to choose the right machine for your facility.">
   <meta property="og:type" content="website">
   <meta property="og:image" content="https://delta-solutions.in/images/blogs/industrial-vacuum-cleaner-vs-wet-dry-vacuum-cleaner.webp">
@@ -47,9 +47,9 @@ $excerpt = 'Understand the difference between industrial and wet & dry vacuum cl
   
 
 <!-- Stylesheets -->
-<link href="css/bootstrap.css" rel="stylesheet">
-<link href="css/style.css" rel="stylesheet">
-<link href="css/responsive.css" rel="stylesheet">
+<link href="/css/bootstrap.css" rel="stylesheet">
+<link href="/css/style.css" rel="stylesheet">
+<link href="/css/responsive.css" rel="stylesheet">
 
 <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 
@@ -83,7 +83,7 @@ $excerpt = 'Understand the difference between industrial and wet & dry vacuum cl
   "dateModified": "2025-12-19T09:00:00+05:30",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://delta-solutions.in/industrial-vacuum-cleaner-vs-wet-dry-vacuum-cleaner"
+    "@id": "https://delta-solutions.in/blog/industrial-vacuum-cleaner-vs-wet-dry-vacuum-cleaner"
   },
   "breadcrumb": {
     "@type": "BreadcrumbList",
@@ -104,7 +104,7 @@ $excerpt = 'Understand the difference between industrial and wet & dry vacuum cl
         "@type": "ListItem",
         "position": 3,
         "name": "Industrial Vacuum Cleaner vs Wet & Dry Vacuum Cleaner: What's the Difference?",
-        "item": "https://delta-solutions.in/industrial-vacuum-cleaner-vs-wet-dry-vacuum-cleaner"
+        "item": "https://delta-solutions.in/blog/industrial-vacuum-cleaner-vs-wet-dry-vacuum-cleaner"
       }
     ]
   },
@@ -177,7 +177,6 @@ $excerpt = 'Understand the difference between industrial and wet & dry vacuum cl
 }
 </script>
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
 
 
  <style>
@@ -1109,21 +1108,20 @@ $excerpt = 'Understand the difference between industrial and wet & dry vacuum cl
 
 <!--Scroll to top-->
 <div class="scroll-to-top scroll-to-target" data-target="html"><span class="icon fa fa-arrow-up"></span></div>
-<script src="js/jquery.js"></script> 
-<script src="js/bootstrap.min.js"></script>
-<script src="js/jquery-ui.js"></script>
-<script src="js/jquery.fancybox.js"></script>
-<script src="js/validate.js"></script>
-<script src="js/owl.js"></script>
-<script src="js/script.js"></script>
-<!-- <script src="js/slick.min.js"></script> -->
-<!-- <script src="js/mixitup.js"></script> -->
-<!-- <script src="js/appear.js"></script> -->
-<!-- <script src="js/wow.js"></script> -->
-<!-- <script src="js/map-script.js"></script> -->
+<script src="/js/jquery.js"></script> 
+<script src="/js/bootstrap.min.js"></script>
+<script src="/js/jquery-ui.js"></script>
+<script src="/js/jquery.fancybox.js"></script>
+<script src="/js/validate.js"></script>
+<script src="/js/owl.js"></script>
+<script src="/js/script.js"></script>
+<!-- <script src="/js/slick.min.js"></script> -->
+<!-- <script src="/js/mixitup.js"></script> -->
+<!-- <script src="/js/appear.js"></script> -->
+<!-- <script src="/js/wow.js"></script> -->
+<!-- <script src="/js/map-script.js"></script> -->
 
 <!--Google Map APi Key-->
-<script src="https://maps.google.com/maps/api/js?key=AIzaSyDTPlX-43R1TpcQUyWjFgiSfL_BiGxslZU"></script>
 
 
 <script type="text/javascript">

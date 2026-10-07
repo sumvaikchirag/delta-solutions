@@ -41,7 +41,6 @@ $productArray = $product->getAllProduct();
 <meta content="https://delta-solutions.in/images/product-images/Cleaning%20Machines/Dry%20Vacuum/T12_1-HEPA.jpg" property="og:image"/>
 <!-- <link rel="stylesheet" href="dist/drift-basic.css"> -->
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0WPY5YR5W4"></script>
 <script>
@@ -98,25 +97,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           "@type": "ListItem",
           "position": 1,
           "name": "Karcher Dry Vacuum - Basic (T 12/1)",
-          "url": "https://delta-solutions.in/dry-vacuum-cleaner-t-12-1.php"
+          "url": "https://delta-solutions.in/product/dry-vacuum-cleaner-t-12-1"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Karcher Dry Vacuum Premium (T 15/1)",
-          "url": "https://delta-solutions.in/dry-vacuum-cleaner-t-15-1.php"
+          "url": "https://delta-solutions.in/product/dry-vacuum-cleaner-t-15-1"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Karcher Carpet Vacuum (CV 48/2)",
-          "url": "https://delta-solutions.in/dry-vacuum-cleaner-cv-48-2.php"
+          "url": "https://delta-solutions.in/product/dry-vacuum-cleaner-cv-48-2"
         },
         {
           "@type": "ListItem",
           "position": 4,
           "name": "Karcher Backpack Vacuum (BV 5/1)",
-          "url": "https://delta-solutions.in/dry-vacuum-cleaner-bv-5-1.php"
+          "url": "https://delta-solutions.in/product/dry-vacuum-cleaner-bv-5-1"
         }
       ]
     },
@@ -203,7 +202,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- <div class="detail"></div> -->
 <div class="row">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
-<div align="center" class="image-box"><a href="dry-vacuum-cleaner-t-12-1.php">
+<div align="center" class="image-box"><a href="/product/dry-vacuum-cleaner-t-12-1">
 <img alt="T12 1 Hepa - Dry Vacuum | Delta Solutions" class="drift-demo-trigger" data-zoom="images/product-images/Cleaning Machines/Dry Vacuum/T12_1-HEPA-large.jpg" src="images/product-images/Cleaning Machines/Dry Vacuum/T12_1-HEPA.jpg"/> </a>
 </div>
 </div>
@@ -226,7 +225,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="dry-vacuum-cleaner-t-12-1.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/dry-vacuum-cleaner-t-12-1">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["01"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["01"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["01"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["01"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -240,7 +239,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <hr id="t151"/>
 <div class="row">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
-<div align="center" class="image-box"><a href="dry-vacuum-cleaner-t-15-1.php">
+<div align="center" class="image-box"><a href="/product/dry-vacuum-cleaner-t-15-1">
 <img alt="T 15 1 - Dry Vacuum | Delta Solutions" class="drift-demo-trigger" data-zoom="images/product-images/Cleaning Machines/Dry Vacuum/T-15_1-large.jpg" src="images/product-images/Cleaning Machines/Dry Vacuum/T-15_1.png"/></a>
 </div>
 </div>
@@ -263,7 +262,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="dry-vacuum-cleaner-t-15-1.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/dry-vacuum-cleaner-t-15-1">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["02"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["02"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["02"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["02"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -277,7 +276,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
 <div align="center" class="image-box">
-<a href="dry-vacuum-cleaner-cv-48-2.php">
+<a href="/product/dry-vacuum-cleaner-cv-48-2">
 <img alt="Cv 48 2 - Dry Vacuum | Delta Solutions" class="drift-demo-trigger" data-zoom="images/product-images/Cleaning Machines/Dry Vacuum/CV-48_2-large.jpg" src="images/product-images/Cleaning Machines/Dry Vacuum/CV-48_2.png"/>
 </a>
 </div>
@@ -306,7 +305,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="dry-vacuum-cleaner-cv-48-2.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/dry-vacuum-cleaner-cv-48-2">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["03"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["03"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["03"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["03"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -320,7 +319,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
 <div align="center" class="image-box">
-<a href="dry-vacuum-cleaner-bv-5-1.php">
+<a href="/product/dry-vacuum-cleaner-bv-5-1">
 <img alt="Bv 5 1 - Dry Vacuum | Delta Solutions" class="drift-demo-trigger" data-zoom="images/product-images/Cleaning Machines/Dry Vacuum/BV-5_1-large.jpg" src="images/product-images/Cleaning Machines/Dry Vacuum/BV-5_1.png"/>
 </a>
 </div>
@@ -344,7 +343,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="dry-vacuum-cleaner-bv-5-1.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/dry-vacuum-cleaner-bv-5-1">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["04"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["04"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["04"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["04"]["code"]; ?>" name="quantity" value="1" size="2" />

@@ -19,6 +19,7 @@ $in_session = "0";
 <head>
 <meta charset="utf-8"/>
 <title>Blueair Blue Series Air Purifier by Delta Solutions</title>
+<link rel="canonical" href="https://delta-solutions.in/blueair-blue-series-air-purifier"/>
 <!-- Stylesheets -->
 <link href="css/bootstrap.css" rel="stylesheet"/>
 <link href="css/style.css" rel="stylesheet"/>
@@ -31,7 +32,6 @@ $in_session = "0";
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/>
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0WPY5YR5W4"></script>
 <script>
@@ -89,7 +89,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <section class="projects-section-four" id="JoyS">
 <div class="auto-container">
 <div class="sec-title text-center">
-<h2>Blueair Blue Series Air Purifier</h2>
+<h1>Blueair Blue Series Air Purifier</h1>
 </div>
 <div class="row clearfix">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
@@ -114,7 +114,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="blueair-blue-series-air-purifier-joy-s.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/blueair-blue-series-air-purifier-joy-s">Know More</a>
 <!--<button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["113"]["code"]; ?>"  onClick="cartAction('add','<?php echo $productArray["113"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket&nbsp;  -->
 <!--     <img src="images/add-to-cart.png" />-->
 <!-- </button>-->
@@ -149,7 +149,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="blueair-blue-series-air-purifier-b-p-211.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/blueair-blue-series-air-purifier-b-p-211">Know More</a>
 <!--<button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["114"]["code"]; ?>"  onClick="cartAction('add','<?php echo $productArray["114"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket&nbsp;  -->
 <!--    <img src="images/add-to-cart.png" />-->
 <!--</button>-->
@@ -184,7 +184,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="blueair-blue-series-air-purifier-b-p-121.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/blueair-blue-series-air-purifier-b-p-121">Know More</a>
 <!--<button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["115"]["code"]; ?>"  onClick="cartAction('add','<?php echo $productArray["115"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket&nbsp;  -->
 <!--    <img src="images/add-to-cart.png" />-->
 <!--</button>-->

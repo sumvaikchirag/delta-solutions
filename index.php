@@ -14,6 +14,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- Stylesheets -->
 <link href="css/bootstrap.css" rel="stylesheet"/>
 <link href="css/style.css" rel="stylesheet"/>
+<link href="css/collections.css" rel="stylesheet"/>
 <link href="css/responsive.css" rel="stylesheet"/><!-- 
 <link href="css/owl.css" rel="stylesheet">
  -->
@@ -39,7 +40,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta content="https://delta-solutions.in/images/300x75.png" property="og:image"/>
 <meta content="sW2JQawZ4xOY-fSn5CFxboLhWLQwpuCmZ0MEJpQ4jxg" name="google-site-verification">
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0WPY5YR5W4"></script>
 <script>
@@ -103,19 +103,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   "image": "https://delta-solutions.in/images/300x75.png",
   "@id": "https://delta-solutions.in/",
   "url": "https://delta-solutions.in/",
-  "telephone": "93507 35062",
+  "telephone": "+91-93116-77446",
+  "email": "contact@delta-solutions.in",
+  "parentOrganization": { "@id": "https://delta-solutions.in/#organization" },
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "712, Ansal Chambers 2, 6, Bhikaji Cama Place, Rama Krishna Puram",
+    "streetAddress": "1st Floor, F-3/9, Pocket F, Okhla Phase I, Okhla Industrial Estate",
     "addressLocality": "New Delhi",
     "addressRegion": "Delhi",
-    "postalCode": "110066",
+    "postalCode": "110020",
     "addressCountry": "IN"
-  },
-  "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 28.567851328185032,
-    "longitude": 77.18823361138571
   },
   "openingHoursSpecification": {
     "@type": "OpeningHoursSpecification",
@@ -127,7 +124,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       "Friday",
       "Saturday"
     ],
-    "opens": "09:0",
+    "opens": "09:00",
     "closes": "17:30"
   },
   "sameAs": [
@@ -654,6 +651,129 @@ font-family: 'Roboto', sans-serif;
 </div>
 </div>
 </section>
+<!-- Collections section start -->
+<section class="dl-collections" aria-labelledby="dl-collections-title">
+<div class="auto-container">
+<div class="dl-col-head">
+<p class="dl-col-eyebrow">Shop by collection</p>
+<h2 id="dl-collections-title">Explore Our Collections</h2>
+<p class="dl-col-sub">Choose a category to browse every range we supply, from K&#228;rcher cleaning machines to washroom dispensers.</p>
+</div>
+<div class="dl-col-wrap">
+<div class="dl-col-nav" role="tablist" aria-label="Product collections">
+<button type="button" class="dl-col-tab is-active" role="tab" id="dl-tab-machines" aria-controls="dl-panel-machines" aria-selected="true" tabindex="0"><span>Cleaning Machines</span><span class="dl-col-count">11</span></button>
+<button type="button" class="dl-col-tab" role="tab" id="dl-tab-air" aria-controls="dl-panel-air" aria-selected="false" tabindex="-1"><span>Clean Air Solutions</span><span class="dl-col-count">7</span></button>
+<button type="button" class="dl-col-tab" role="tab" id="dl-tab-chemicals" aria-controls="dl-panel-chemicals" aria-selected="false" tabindex="-1"><span>Cleaning Chemicals</span><span class="dl-col-count">5</span></button>
+<button type="button" class="dl-col-tab" role="tab" id="dl-tab-tools" aria-controls="dl-panel-tools" aria-selected="false" tabindex="-1"><span>Cleaning Tools</span><span class="dl-col-count">9</span></button>
+<button type="button" class="dl-col-tab" role="tab" id="dl-tab-dispensers" aria-controls="dl-panel-dispensers" aria-selected="false" tabindex="-1"><span>Dispensers &amp; Hand Dryers</span><span class="dl-col-count">7</span></button>
+<button type="button" class="dl-col-tab" role="tab" id="dl-tab-waste" aria-controls="dl-panel-waste" aria-selected="false" tabindex="-1"><span>Waste &amp; Floor Matting</span><span class="dl-col-count">4</span></button>
+</div>
+<div class="dl-col-panels">
+<div class="dl-col-panel is-active" role="tabpanel" id="dl-panel-machines" aria-labelledby="dl-tab-machines">
+<div class="dl-col-panel-head"><div><h3>Cleaning Machines</h3><p>K&#228;rcher professional range</p></div><a class="dl-col-all" href="/collections#machines">View all <span aria-hidden="true">&rarr;</span></a></div>
+<div class="dl-col-scroll"><div class="dl-col-grid">
+<a class="dl-col-card" href="/dry-vacuum-cleaner"><span class="dl-col-img"><img src="/images/product-images/Dry-Vacuum.jpg" alt="Dry Vacuum Cleaners" width="400" height="400" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">Dry Vacuum Cleaners</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+<a class="dl-col-card" href="/wet-dry-vacuum-cleaner"><span class="dl-col-img"><img src="/images/product-images/Wet-&amp;-dry.jpg" alt="Wet &amp; Dry Vacuum Cleaners" width="400" height="400" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">Wet &amp; Dry Vacuum Cleaners</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+<a class="dl-col-card" href="/scrubber-drier"><span class="dl-col-img"><img src="/images/product-images/Scrubber-Drier.jpg" alt="Scrubber Driers" width="400" height="400" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">Scrubber Driers</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+<a class="dl-col-card" href="/single-disc"><span class="dl-col-img"><img src="/images/product-images/Single-Disc.jpg" alt="Single Disc Machines" width="400" height="400" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">Single Disc Machines</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+<a class="dl-col-card" href="/sweeper"><span class="dl-col-img"><img src="/images/product-images/Sweeper.jpg" alt="Sweepers" width="400" height="400" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">Sweepers</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+<a class="dl-col-card" href="/carpet-cleaner"><span class="dl-col-img"><img src="/images/product-images/carpet-cleaner.jpg" alt="Carpet &amp; Upholstery Cleaners" width="400" height="400" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">Carpet &amp; Upholstery Cleaners</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+<a class="dl-col-card" href="/cold-water-high-pressure"><span class="dl-col-img"><img src="/images/product-images/Cold-Water-Pressure.jpg" alt="Cold Water High Pressure" width="400" height="400" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">Cold Water High Pressure</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+<a class="dl-col-card" href="/hot-water-high-pressure"><span class="dl-col-img"><img src="/images/product-images/Hot-Water-High-Pressure.jpg" alt="Hot Water High Pressure" width="400" height="400" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">Hot Water High Pressure</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+<a class="dl-col-card" href="/steam-cleaner"><span class="dl-col-img"><img src="/images/product-images/Steam-Cleaner.jpg" alt="Steam Cleaners" width="400" height="400" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">Steam Cleaners</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+<a class="dl-col-card" href="/industrial-cleaner"><span class="dl-col-img"><img src="/images/product-images/Cleaning%20Machines/Industrial/IVM-100_22-Sc.png" alt="Industrial Vacuum Cleaners" width="400" height="400" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">Industrial Vacuum Cleaners</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+<a class="dl-col-card" href="/industrial-machines"><span class="dl-col-img"><img src="/images/product-images/industrial-machines.png" alt="Industrial Machines" width="400" height="400" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">Industrial Machines</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+</div></div>
+</div>
+<div class="dl-col-panel" role="tabpanel" id="dl-panel-air" aria-labelledby="dl-tab-air" hidden>
+<div class="dl-col-panel-head"><div><h3>Clean Air Solutions</h3><p>Camfil, Blueair &amp; industrial filtration</p></div><a class="dl-col-all" href="/collections#air">View all <span aria-hidden="true">&rarr;</span></a></div>
+<div class="dl-col-scroll"><div class="dl-col-grid">
+<a class="dl-col-card" href="/air-purifiers"><span class="dl-col-img"><img src="/images/product-images/Air%20Purifiers/Camfil%20Purifiers/Camfil-City-M.jpg" alt="Air Purifiers" width="400" height="400" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">Air Purifiers</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+<a class="dl-col-card" href="/camfil-air-cleaner"><span class="dl-col-img"><img src="/images/product-images/Air%20Purifiers/Camfil%20Air%20Cleaner/CC-6000.png" alt="Industrial Air Cleaners" width="400" height="400" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">Industrial Air Cleaners</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+<a class="dl-col-card" href="/dust-collector"><span class="dl-col-img"><img src="/images/product-images/Dust%20Collector/dust%20collector.jpg" alt="Industrial Dust Collectors" width="400" height="400" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">Industrial Dust Collectors</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+<a class="dl-col-card" href="/ahu-filter-general-ventilation"><span class="dl-col-img"><img src="/images/product/General%20Ventilation.png" alt="General Ventilation Filters" width="370" height="240" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">General Ventilation Filters</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+<a class="dl-col-card" href="/ahu-filter-epa-hepa-ulpa"><span class="dl-col-img"><img src="/images/product/hepa-filter%20black.png" alt="EPA, HEPA &amp; ULPA Filters" width="370" height="240" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">EPA, HEPA &amp; ULPA Filters</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+<a class="dl-col-card" href="/ahu-filter-gas-molecular"><span class="dl-col-img"><img src="/images/product/gas%20and%20molecules.png" alt="Gas Phase / Molecular Filters" width="370" height="240" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">Gas Phase / Molecular Filters</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+<a class="dl-col-card" href="/ahu-filter-high-temperature"><span class="dl-col-img"><img src="/images/product/high%20temperature.png" alt="High Temperature Filters" width="370" height="240" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">High Temperature Filters</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+</div></div>
+</div>
+<div class="dl-col-panel" role="tabpanel" id="dl-panel-chemicals" aria-labelledby="dl-tab-chemicals" hidden>
+<div class="dl-col-panel-head"><div><h3>Cleaning Chemicals</h3><p>Buzil Rossari hygiene chemicals</p></div><a class="dl-col-all" href="/collections#chemicals">View all <span aria-hidden="true">&rarr;</span></a></div>
+<div class="dl-col-scroll"><div class="dl-col-grid">
+<a class="dl-col-card" href="/housekeeping"><span class="dl-col-img"><img src="/images/product-images/housekeeping.png" alt="Housekeeping" width="370" height="240" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">Housekeeping</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+<a class="dl-col-card" href="/kitchen"><span class="dl-col-img"><img src="/images/product-images/kitchen.png" alt="Kitchen Hygiene" width="370" height="240" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">Kitchen Hygiene</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+<a class="dl-col-card" href="/disinfection"><span class="dl-col-img"><img src="/images/product-images/disinfection.png" alt="Disinfection" width="370" height="240" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">Disinfection</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+<a class="dl-col-card" href="/hand-sanitizer"><span class="dl-col-img"><img src="/images/product-images/hand-sanitizer.png" alt="Hand Sanitizer" width="370" height="240" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">Hand Sanitizer</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+<a class="dl-col-card" href="/liquid-soap"><span class="dl-col-img"><img src="/images/product-images/liquid-soap.png" alt="Liquid Soap" width="370" height="240" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">Liquid Soap</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+</div></div>
+</div>
+<div class="dl-col-panel" role="tabpanel" id="dl-panel-tools" aria-labelledby="dl-tab-tools" hidden>
+<div class="dl-col-panel-head"><div><h3>Cleaning Tools</h3><p>Mops, wipes, trolleys &amp; more</p></div><a class="dl-col-all" href="/collections#tools">View all <span aria-hidden="true">&rarr;</span></a></div>
+<div class="dl-col-scroll"><div class="dl-col-grid">
+<a class="dl-col-card" href="/cleaning-tools-mops-handles"><span class="dl-col-img"><img src="/images/product/handle.png" alt="Mops &amp; Handles" width="370" height="240" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">Mops &amp; Handles</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+<a class="dl-col-card" href="/cleaning-tools-wringer-trolley"><span class="dl-col-img"><img src="/images/product/Wringer-Trolley.png" alt="Wringer Trolleys" width="370" height="240" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">Wringer Trolleys</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+<a class="dl-col-card" href="/cleaning-tools-cart-trolleys"><span class="dl-col-img"><img src="/images/product/Cart.png" alt="Carts &amp; Trolleys" width="370" height="240" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">Carts &amp; Trolleys</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+<a class="dl-col-card" href="/cleaning-tools-brush"><span class="dl-col-img"><img src="/images/product/Brush.png" alt="Brushes" width="370" height="240" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">Brushes</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+<a class="dl-col-card" href="/cleaning-tools-floor-wipers"><span class="dl-col-img"><img src="/images/product/squeegee.png" alt="Floor Wipers" width="370" height="240" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">Floor Wipers</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+<a class="dl-col-card" href="/cleaning-tools-window"><span class="dl-col-img"><img src="/images/product/windows.png" alt="Window Tools" width="370" height="240" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">Window Tools</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+<a class="dl-col-card" href="/cleaning-tools-wipes"><span class="dl-col-img"><img src="/images/product/wipe.png" alt="Wipes" width="370" height="240" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">Wipes</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+<a class="dl-col-card" href="/cleaning-tools-scrub"><span class="dl-col-img"><img src="/images/product/Scrub.png" alt="Scrubs" width="370" height="240" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">Scrubs</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+<a class="dl-col-card" href="/paper-tissue"><span class="dl-col-img"><img src="/images/product/tissue-paper.png" alt="Paper Tissue" width="370" height="240" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">Paper Tissue</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+</div></div>
+</div>
+<div class="dl-col-panel" role="tabpanel" id="dl-panel-dispensers" aria-labelledby="dl-tab-dispensers" hidden>
+<div class="dl-col-panel-head"><div><h3>Dispensers &amp; Hand Dryers</h3><p>Washroom hygiene solutions</p></div><a class="dl-col-all" href="/collections#dispensers">View all <span aria-hidden="true">&rarr;</span></a></div>
+<div class="dl-col-scroll"><div class="dl-col-grid">
+<a class="dl-col-card" href="/soap-dispensers-abs"><span class="dl-col-img"><img src="/images/product-images/Dispensers/soap%20dispenser/ABS/DSA-006-S-AT.jpg" alt="ABS Soap Dispensers" width="400" height="400" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">ABS Soap Dispensers</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+<a class="dl-col-card" href="/soap-dispensers-ss"><span class="dl-col-img"><img src="/images/product-images/Dispensers/soap%20dispenser/SS/DSS-001-AT.jpg" alt="SS Soap Dispensers" width="400" height="400" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">SS Soap Dispensers</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+<a class="dl-col-card" href="/paper-dispensers-abs"><span class="dl-col-img"><img src="/images/product-images/Dispensers/Paper%20Tissue%20Dispenser/DPA-001.jpg" alt="ABS Paper Dispensers" width="400" height="400" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">ABS Paper Dispensers</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+<a class="dl-col-card" href="/paper-dispensers-ss"><span class="dl-col-img"><img src="/images/product-images/Dispensers/Paper%20Tissue%20Dispenser/DPS-001.jpg" alt="SS Paper Dispensers" width="400" height="400" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">SS Paper Dispensers</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+<a class="dl-col-card" href="/air-freshener-dispensers"><span class="dl-col-img"><img src="/images/product-images/Air%20Freshener%20Dispensers.png" alt="Air Freshener Dispensers" width="400" height="400" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">Air Freshener Dispensers</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+<a class="dl-col-card" href="/hand-dryers-abs"><span class="dl-col-img"><img src="/images/product-images/ABS%20Plastic%20Hand%20Dryers.png" alt="ABS Hand Dryers" width="400" height="400" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">ABS Hand Dryers</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+<a class="dl-col-card" href="/hand-dryers-ss"><span class="dl-col-img"><img src="/images/product-images/Stainless%20Steel%20Hand%20Dryers%20(SS).png" alt="SS Hand Dryers" width="400" height="400" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">SS Hand Dryers</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+</div></div>
+</div>
+<div class="dl-col-panel" role="tabpanel" id="dl-panel-waste" aria-labelledby="dl-tab-waste" hidden>
+<div class="dl-col-panel-head"><div><h3>Waste &amp; Floor Matting</h3><p>Dustbins and entrance matting</p></div><a class="dl-col-all" href="/collections#waste">View all <span aria-hidden="true">&rarr;</span></a></div>
+<div class="dl-col-scroll"><div class="dl-col-grid">
+<a class="dl-col-card" href="/waste-management-ss-dustbin"><span class="dl-col-img"><img src="/images/product-images/Waste%20Management/SS%20Dustbin/SS%20Plain%20Dustbin.jpg" alt="Stainless Steel Dustbins" width="400" height="400" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">Stainless Steel Dustbins</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+<a class="dl-col-card" href="/waste-management-plastic-dustbin"><span class="dl-col-img"><img src="/images/product-images/Waste%20Management/Plastic%20Dustbin/BP-017/BP-017-GY.png" alt="Plastic Dustbins" width="400" height="400" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">Plastic Dustbins</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+<a class="dl-col-card" href="/aluminium-mats"><span class="dl-col-img"><img src="/images/product-images/Floor%20matting/FM-007.jpg" alt="Aluminium Mats" width="400" height="400" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">Aluminium Mats</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+<a class="dl-col-card" href="/commercial-carpet-mats"><span class="dl-col-img"><img src="/images/product-images/Floor%20matting/3M%206500%20AQUA%20MAT%20MED%20DUTY.jpg" alt="Commercial Carpet Mats" width="400" height="400" loading="lazy" decoding="async"/></span><span class="dl-col-body"><span class="dl-col-title">Commercial Carpet Mats</span><span class="dl-col-arrow" aria-hidden="true">&rarr;</span></span></a>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+<script>
+(function () {
+  var tabs = Array.prototype.slice.call(document.querySelectorAll('.dl-col-tab'));
+  function select(tab, focus) {
+    tabs.forEach(function (t) {
+      var on = t === tab, panel = document.getElementById(t.getAttribute('aria-controls'));
+      t.classList.toggle('is-active', on);
+      t.setAttribute('aria-selected', on ? 'true' : 'false');
+      t.tabIndex = on ? 0 : -1;
+      panel.hidden = !on;
+      panel.classList.toggle('is-active', on);
+      if (on) panel.querySelector('.dl-col-scroll').scrollTop = 0;
+    });
+    if (focus) tab.focus();
+    if (tab.scrollIntoView && window.innerWidth < 992) tab.scrollIntoView({ block: 'nearest', inline: 'center', behavior: 'smooth' });
+  }
+  tabs.forEach(function (tab, i) {
+    tab.addEventListener('click', function () { select(tab, false); });
+    tab.addEventListener('keydown', function (e) {
+      var next = { ArrowDown: i + 1, ArrowRight: i + 1, ArrowUp: i - 1, ArrowLeft: i - 1, Home: 0, End: tabs.length - 1 }[e.key];
+      if (next === undefined) return;
+      e.preventDefault();
+      select(tabs[(next + tabs.length) % tabs.length], true);
+    });
+  });
+})();
+</script>
+</section>
+<!-- Collections section end -->
 <section class="brands">
 <div class="auto-container">
 <div class="row clearfix">
@@ -876,7 +996,7 @@ const blogPosts = [
     date: "2025-12-19", 
     category: "Sweepers",
     image: "/images/blogs/battery-vs-diesel-ride-on-sweeper.webp",
-    link:"battery-vs-diesel-ride-on-sweeper",
+    link:"/blog/battery-vs-diesel-ride-on-sweeper",
     
   },
    {
@@ -887,7 +1007,7 @@ const blogPosts = [
     date: "2025-08-23", 
     category: "Vacuum Cleaners",
     image: "/images/blogs/which-vacuum-cleaner-is-best-for-industrial-use.png",
-    link:"which-vacuum-cleaner-is-best-for-industrial-use",
+    link:"/blog/which-vacuum-cleaner-is-best-for-industrial-use",
     
   },
   {
@@ -898,7 +1018,7 @@ const blogPosts = [
   date: "2026-07-16",
   category: "Industrial Cleaning",
   image: "/images/blogs/industrial-cleaning-equipment-the-complete-buyers-guide.webp",
-  link: "industrial-cleaning-equipment-buyers-guide",
+  link: "/blog/industrial-cleaning-equipment-buyers-guide",
 },
   {
   id: 4,
@@ -908,7 +1028,7 @@ const blogPosts = [
   date: "2025-12-19",
   category: "Vacuum Cleaners",
   image: "/images/blogs/industrial-vacuum-cleaner-vs-wet-dry-vacuum-cleaner.webp",
-  link: "industrial-vacuum-cleaner-vs-wet-dry-vacuum-cleaner",
+  link: "/blog/industrial-vacuum-cleaner-vs-wet-dry-vacuum-cleaner",
 },
 {
   id: 5,
@@ -918,7 +1038,7 @@ const blogPosts = [
   date: "2026-08-24",
   category: "Vacuum Cleaners",
   image: "/images/blogs/wet-and-dry-vacuum-cleaner-complete-buying-guide.webp",
-  link: "wet-and-dry-vacuum-cleaner-buying-guide",
+  link: "/blog/wet-and-dry-vacuum-cleaner-buying-guide",
 },
   
 ];
@@ -1197,7 +1317,6 @@ const blogPosts = [
 <!-- <script src="js/wow.js"></script> -->
 <!-- <script src="js/map-script.js"></script> -->
 <!--Google Map APi Key-->
-<script src="https://maps.google.com/maps/api/js?key=AIzaSyDTPlX-43R1TpcQUyWjFgiSfL_BiGxslZU"></script>
 <script type="text/javascript">
  $(document).ready(function () {
         $('.home').addClass('current');

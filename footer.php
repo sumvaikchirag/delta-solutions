@@ -6,7 +6,7 @@
 <div class="row clearfix">
 <!--Footer Column-->
 <div class="footer-column col-md-3 col-sm-6 col-xs-12">
-<div class="logo"><a href="/"><img alt="300X90 | Delta Solutions" src="images/300x90.png" title=""/></a></div>
+<div class="logo"><a href="/"><img alt="300X90 | Delta Solutions" src="/images/300x90.png" title=""/></a></div>
 </div>
 <div class="footer-column col-md-9 col-sm-6 col-xs-12">
 <div class="footer-widget subscribe-widget">
@@ -45,7 +45,7 @@
 <li><a href="/blogs">Blogs</a></li>
 <li><a href="/#">Downloads</a></li>
 <li><a href="/contact">Contact Us</a></li>
-<li><a href="sitemap.xml">Site Map</a></li>
+<li><a href="/sitemap.xml">Site Map</a></li>
 <li><a href="/privacy-policy">Privacy Policy</a></li>
 </ul>
 </div>
@@ -56,12 +56,12 @@
 <div class="widget-title"><h2>Top Categories</h2></div>
 <div class="widget-content">
 <ul class="list clearfix">
-<li><a href="cleaning-machines.php">Cleaning Machines</a></li>
-<li><a href="clean-air-solutions.php">Clean Air Solutions</a></li>
-<li><a href="cleaning-consumables.php">Cleaning Consumables</a></li>
-<li><a href="dispensers.php">Dispensers</a></li>
-<li><a href="waste-management.php">Waste Management</a></li>
-<li><a href="floor-matting.php">Floor Matting</a></li>
+<li><a href="/cleaning-machines.php">Cleaning Machines</a></li>
+<li><a href="/clean-air-solutions.php">Clean Air Solutions</a></li>
+<li><a href="/cleaning-consumables.php">Cleaning Consumables</a></li>
+<li><a href="/dispensers.php">Dispensers</a></li>
+<li><a href="/waste-management.php">Waste Management</a></li>
+<li><a href="/floor-matting.php">Floor Matting</a></li>
 </ul>
 </div>
 </div>
@@ -136,7 +136,7 @@
 </div>
 </div></footer>
 <!-- End Main Footer -->
-<div class="phone-call"><a href="tel:+919311677446" target="_blank"><img alt="Call" src="images/phone-call.png" title="Call" width="30"/></a></div>
+<div class="phone-call"><a href="tel:+919311677446" target="_blank"><img alt="Call" src="/images/phone-call.png" title="Call" width="30"/></a></div>
 <style type="text/css">
 
   .phone-call {
@@ -248,7 +248,7 @@ function cartAction(action, product_code) {
         }
     }
     jQuery.ajax({
-        url : "ajax-action.php",
+        url : "/ajax-action.php",
         data : queryString,
         type : "POST",
         success:function(data){
@@ -335,7 +335,7 @@ $('#success_message').show();
 $('#trialbutton').hide();
   window.location.href = "https://www.delta-solutions.in/thanks.php";
   var request = $.ajax({
-  url: "emailme.php",
+  url: "/emailme.php",
   type: "GET",
   data: { companyname : companyname,
           name : name,

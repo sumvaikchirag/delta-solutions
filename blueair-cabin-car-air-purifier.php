@@ -18,6 +18,7 @@ $in_session = "0";
 <head>
 <meta charset="utf-8"/>
 <title>Blueair Car Air Purifier by Delta Solutions</title>
+<link rel="canonical" href="https://delta-solutions.in/blueair-cabin-car-air-purifier"/>
 <!-- Stylesheets -->
 <link href="css/bootstrap.css" rel="stylesheet"/>
 <link href="css/style.css" rel="stylesheet"/>
@@ -30,7 +31,6 @@ $in_session = "0";
 <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/>
 <link href="dist/drift-basic.css" rel="stylesheet"/>
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0WPY5YR5W4"></script>
 <script>
@@ -86,7 +86,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <section class="projects-section-four" id="P1">
 <div class="auto-container">
 <div class="sec-title text-center">
-<h2>Blueair Cabin Car Air Purifier</h2>
+<h1>Blueair Cabin Car Air Purifier</h1>
 </div>
 <div class="row clearfix">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
@@ -112,7 +112,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="blueair-cabin-car-air-purifier-p1.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/blueair-cabin-car-air-purifier-p1">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["123"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["123"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["123"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["123"]["code"]; ?>" name="quantity" value="1" size="2" /> 
@@ -147,7 +147,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="blueair-cabin-car-air-purifier-p2.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/blueair-cabin-car-air-purifier-p2">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["124"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["124"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["124"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["124"]["code"]; ?>" name="quantity" value="1" size="2" />

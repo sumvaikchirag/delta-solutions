@@ -9,15 +9,58 @@ RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
 RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
 
+# Old URLs that no longer exist: tell search engines they are gone for good
+RewriteRule ^wp-content/ - [G,L]
+RewriteRule ^search/?$ - [G,L]
+
+# Old URLs that moved
+RewriteRule ^lander/?$ / [R=301,L]
+RewriteRule ^industrial-vacuum-cleaner/?$ /industrial-cleaner [R=301,L]
+
 # Redirect /index and /index.php to the homepage
 RewriteCond %{THE_REQUEST} \s/+index(\.php)?[\s?] [NC]
 RewriteRule ^ /? [R=301,L]
 
+# Product pages live under /product/ and blog posts under /blog/
+# Old addresses (with or without .php or a trailing slash) redirect permanently to the new ones
+RewriteCond %{THE_REQUEST} \s/+(blueair-blue-series-air-purifier-b-p-121|blueair-blue-series-air-purifier-b-p-211|blueair-blue-series-air-purifier-b-p-221|blueair-blue-series-air-purifier-joy-s|blueair-cabin-car-air-purifier-p1|blueair-cabin-car-air-purifier-p2|blueair-classic-air-purifier-205|blueair-classic-air-purifier-280|blueair-classic-air-purifier-480|blueair-classic-air-purifier-680|blueair-pro-new-air-purifier-pro-l|blueair-pro-new-air-purifier-pro-m|blueair-pro-new-air-purifier-pro-xl|camfil-air-cleaner-cc-1700|camfil-air-cleaner-cc-2000|camfil-air-cleaner-cc-400|camfil-air-cleaner-cc-410|camfil-air-cleaner-cc-6000|camfil-air-cleaner-cc-800|camfil-air-purifier-city-m|camfil-air-purifier-city-t|carpet-cleaner-ab-30|carpet-cleaner-puzzi-10-1|cold-water-high-pressure-hd-10-15-4-c|cold-water-high-pressure-hd-10-25-4-s|cold-water-high-pressure-hd-5-11-c|cold-water-high-pressure-hd-5-12-c|cold-water-high-pressure-hd-6-15-4-c|cold-water-high-pressure-hd-6-15-m|cold-water-high-pressure-hd-7-16-c|cold-water-high-pressure-hd-8-18-4-m|cold-water-high-pressure-hd-9-100-4|cold-water-high-pressure-hd-9-20-4-c|cold-water-high-pressure-hd-9-50-4|disinfection-br-501|disinfection-br-502|disinfection-br-503|disinfection-rosa-dc|disinfection-ross-fcs|dry-vacuum-cleaner-bv-5-1|dry-vacuum-cleaner-cv-48-2|dry-vacuum-cleaner-t-12-1|dry-vacuum-cleaner-t-15-1|hand-sanitizer-aseptic|hand-sanitizer-coroclean|hand-sanitizer-sanpro|hot-water-high-pressure-hds-10-20-4-m|hot-water-high-pressure-hds-8-18-4-m|hot-water-high-pressure-hds-e-8-16-4-m|housekeeping-blitz-citro|housekeeping-finnese|housekeeping-fresh-citral|housekeeping-fresh-lavender|housekeeping-fresh-mahagony|housekeeping-indumaster-strong|housekeeping-leather|housekeeping-metapol|housekeeping-o-tens|housekeeping-profiglass|housekeeping-ross-clarino|housekeeping-ross-dsc|housekeeping-ross-fc-h|housekeeping-ross-gc|housekeeping-ross-hdc|housekeeping-ross-tc|housekeeping-ross-wr|industrial-cleaner-ivc-60-30-t|industrial-cleaner-ivm-100-22-sc|industrial-cleaner-ivm-100-55-sc|industrial-cleaner-ivr-100-22-sc|industrial-cleaner-ivr-100-22-t|industrial-machines-ib-7-40-c|industrial-machines-pc-100-m2-b|kitchen-bistro-g-435|kitchen-dish-smart-ks-19|kitchen-flow|kitchen-grill-master|kitchen-ross-dishclean|kitchen-ross-dishfast|kitchen-ross-tab|kitchen-sparkle-br-301|liquid-soap-aqua-ab|liquid-soap-aqua-or|liquid-soap-aqua-or-rose|liquid-soap-planta-lotion|liquid-soap-protect-hands|liquid-soap-rosa-aqua-br-803|scrubber-drier-b-90-r-bp|scrubber-drier-bd-43-40-c-ep|scrubber-drier-bd-50-50-bp|scrubber-drier-bd-50-60-ep|scrubber-drier-bd-50-70-r-bp|scrubber-drier-bd-90-160-r-bp|scrubber-drier-br-30-4-c|single-disc-bds-43-150-c|steam-cleaner-sg-4-4|steam-cleaner-sgv-6-5|steam-cleaner-sgv-8-5|sweeper-km-100-100-r-g|sweeper-km-150-500-r-d|sweeper-km-70-20|sweeper-km-85-50-w-bp|wet-and-dry-vacuum-nt-22-1|wet-and-dry-vacuum-nt-27-1|wet-and-dry-vacuum-nt-30-1|wet-and-dry-vacuum-nt-40-1|wet-and-dry-vacuum-nt-65-2|wet-and-dry-vacuum-nt-70-2|wet-and-dry-vacuum-nt-75-1-ec|wet-and-dry-vacuum-nt-75-2|wet-and-dry-vacuum-nt-75-2-ap)(\.php)?/?[\s?]
+RewriteRule ^ /product/%1 [R=301,L]
+RewriteCond %{THE_REQUEST} \s/+(blogs/)?(battery-vs-diesel-ride-on-sweeper|how-does-a-wet-and-dry-vacuum-cleaner-work|industrial-cleaning-equipment-buyers-guide|industrial-vacuum-cleaner-vs-wet-dry-vacuum-cleaner|walk-behind-vs-ride-on-scrubber-dryer|wet-and-dry-vacuum-cleaner-buying-guide|wet-and-dry-vacuum-cleaner-vs-regular-vacuum|which-vacuum-cleaner-is-best-for-industrial-use)(\.php)?/?[\s?]
+RewriteRule ^ /blog/%2 [R=301,L]
+RewriteCond %{THE_REQUEST} \s/+(product|blog)/[a-z0-9-]+\.php[\s?]
+RewriteRule ^(product|blog)/([a-z0-9-]+)\.php$ /$1/$2 [R=301,L]
+RewriteRule ^blog/?$ /blogs [R=301,L]
+# Serve the new addresses from the existing files
+RewriteRule ^product/(blueair-blue-series-air-purifier-b-p-121|blueair-blue-series-air-purifier-b-p-211|blueair-blue-series-air-purifier-b-p-221|blueair-blue-series-air-purifier-joy-s|blueair-cabin-car-air-purifier-p1|blueair-cabin-car-air-purifier-p2|blueair-classic-air-purifier-205|blueair-classic-air-purifier-280|blueair-classic-air-purifier-480|blueair-classic-air-purifier-680|blueair-pro-new-air-purifier-pro-l|blueair-pro-new-air-purifier-pro-m|blueair-pro-new-air-purifier-pro-xl|camfil-air-cleaner-cc-1700|camfil-air-cleaner-cc-2000|camfil-air-cleaner-cc-400|camfil-air-cleaner-cc-410|camfil-air-cleaner-cc-6000|camfil-air-cleaner-cc-800|camfil-air-purifier-city-m|camfil-air-purifier-city-t|carpet-cleaner-ab-30|carpet-cleaner-puzzi-10-1|cold-water-high-pressure-hd-10-15-4-c|cold-water-high-pressure-hd-10-25-4-s|cold-water-high-pressure-hd-5-11-c|cold-water-high-pressure-hd-5-12-c|cold-water-high-pressure-hd-6-15-4-c|cold-water-high-pressure-hd-6-15-m|cold-water-high-pressure-hd-7-16-c|cold-water-high-pressure-hd-8-18-4-m|cold-water-high-pressure-hd-9-100-4|cold-water-high-pressure-hd-9-20-4-c|cold-water-high-pressure-hd-9-50-4|disinfection-br-501|disinfection-br-502|disinfection-br-503|disinfection-rosa-dc|disinfection-ross-fcs|dry-vacuum-cleaner-bv-5-1|dry-vacuum-cleaner-cv-48-2|dry-vacuum-cleaner-t-12-1|dry-vacuum-cleaner-t-15-1|hand-sanitizer-aseptic|hand-sanitizer-coroclean|hand-sanitizer-sanpro|hot-water-high-pressure-hds-10-20-4-m|hot-water-high-pressure-hds-8-18-4-m|hot-water-high-pressure-hds-e-8-16-4-m|housekeeping-blitz-citro|housekeeping-finnese|housekeeping-fresh-citral|housekeeping-fresh-lavender|housekeeping-fresh-mahagony|housekeeping-indumaster-strong|housekeeping-leather|housekeeping-metapol|housekeeping-o-tens|housekeeping-profiglass|housekeeping-ross-clarino|housekeeping-ross-dsc|housekeeping-ross-fc-h|housekeeping-ross-gc|housekeeping-ross-hdc|housekeeping-ross-tc|housekeeping-ross-wr|industrial-cleaner-ivc-60-30-t|industrial-cleaner-ivm-100-22-sc|industrial-cleaner-ivm-100-55-sc|industrial-cleaner-ivr-100-22-sc|industrial-cleaner-ivr-100-22-t|industrial-machines-ib-7-40-c|industrial-machines-pc-100-m2-b|kitchen-bistro-g-435|kitchen-dish-smart-ks-19|kitchen-flow|kitchen-grill-master|kitchen-ross-dishclean|kitchen-ross-dishfast|kitchen-ross-tab|kitchen-sparkle-br-301|liquid-soap-aqua-ab|liquid-soap-aqua-or|liquid-soap-aqua-or-rose|liquid-soap-planta-lotion|liquid-soap-protect-hands|liquid-soap-rosa-aqua-br-803|scrubber-drier-b-90-r-bp|scrubber-drier-bd-43-40-c-ep|scrubber-drier-bd-50-50-bp|scrubber-drier-bd-50-60-ep|scrubber-drier-bd-50-70-r-bp|scrubber-drier-bd-90-160-r-bp|scrubber-drier-br-30-4-c|single-disc-bds-43-150-c|steam-cleaner-sg-4-4|steam-cleaner-sgv-6-5|steam-cleaner-sgv-8-5|sweeper-km-100-100-r-g|sweeper-km-150-500-r-d|sweeper-km-70-20|sweeper-km-85-50-w-bp|wet-and-dry-vacuum-nt-22-1|wet-and-dry-vacuum-nt-27-1|wet-and-dry-vacuum-nt-30-1|wet-and-dry-vacuum-nt-40-1|wet-and-dry-vacuum-nt-65-2|wet-and-dry-vacuum-nt-70-2|wet-and-dry-vacuum-nt-75-1-ec|wet-and-dry-vacuum-nt-75-2|wet-and-dry-vacuum-nt-75-2-ap)$ /$1.php [L,QSA]
+RewriteRule ^blog/(battery-vs-diesel-ride-on-sweeper|how-does-a-wet-and-dry-vacuum-cleaner-work|industrial-cleaning-equipment-buyers-guide|industrial-vacuum-cleaner-vs-wet-dry-vacuum-cleaner|walk-behind-vs-ride-on-scrubber-dryer|wet-and-dry-vacuum-cleaner-buying-guide|wet-and-dry-vacuum-cleaner-vs-regular-vacuum|which-vacuum-cleaner-is-best-for-industrial-use)$ /$1.php [L,QSA]
+
+# Remove trailing slash from URLs that are not real folders (e.g. /about/ -> /about)
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.+)/$ /$1 [R=301,L]
+
 # Remove .php extension from URLs
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteCond $1 !\.php$
 RewriteRule ^(.*)$ $1.php [L,QSA]
 
 # Optionally redirect .php URLs to extension-less URLs
 RewriteCond %{THE_REQUEST} "^[A-Z]{3,9}\ /.*\.php\ HTTP/"
 RewriteRule ^(.*)\.php$ /$1 [R=301,L]
+
+# Security header (HSTS), noindex for robots.txt/sitemap.xml, browser caching, compression
+<IfModule mod_headers.c>
+  Header always set Strict-Transport-Security "max-age=31536000"
+  <FilesMatch "^(robots\.txt|sitemap\.xml)$">
+    Header set X-Robots-Tag "noindex"
+  </FilesMatch>
+  <FilesMatch "\.(jpe?g|png|gif|webp|svg|ico|woff2?|ttf|eot|otf)$">
+    Header set Cache-Control "public, max-age=2592000"
+  </FilesMatch>
+  <FilesMatch "\.(css|js)$">
+    Header set Cache-Control "public, max-age=604800"
+  </FilesMatch>
+</IfModule>
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/plain text/css text/xml application/xml application/javascript text/javascript application/json image/svg+xml
+</IfModule>

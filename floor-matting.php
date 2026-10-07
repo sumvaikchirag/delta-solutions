@@ -30,7 +30,6 @@ $productArray = $product->getAllProduct();
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/>
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <meta content="Delta Solutions offers high-quality floor matting products, including vinyl, rubber, PVC floor mats for offices and carpet mats for floors. Explore us!" name="description"/>
 <meta content="floor matting, floor mats, pvc floor mat for office, pvc floor mat, vinyl floor mat, rubber floor mats, carpet mat for floor" name="keywords"/>
@@ -854,8 +853,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script src="js/wow.js"></script>
 <script src="js/script.js"></script>
 <!--Google Map APi Key-->
-<script src="https://maps.google.com/maps/api/js?key=AIzaSyDTPlX-43R1TpcQUyWjFgiSfL_BiGxslZU"></script>
-<script src="js/map-script.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
 <script type="text/javascript">
 $(document).ready(function () {

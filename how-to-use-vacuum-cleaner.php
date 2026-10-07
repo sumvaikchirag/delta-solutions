@@ -16,7 +16,9 @@ $excerpt = 'Master the art of vacuum cleaning with our comprehensive guide cover
 
 <head>
 <meta charset="utf-8">
-<title>Products</title>
+<title>How To Use a Vacuum Cleaner: Sofa, Carpet &amp; Floor Guide | Delta Solutions</title>
+<link rel="canonical" href="https://delta-solutions.in/how-to-use-vacuum-cleaner"/>
+<meta name="description" content="Master the art of vacuum cleaning with our comprehensive guide covering everything from sofa cleaning to carpet care."/>
 <!-- Stylesheets -->
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet">
@@ -30,7 +32,6 @@ $excerpt = 'Master the art of vacuum cleaning with our comprehensive guide cover
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-0WPY5YR5W4"></script>
 <script>

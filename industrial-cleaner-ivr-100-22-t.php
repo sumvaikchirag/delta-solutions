@@ -17,20 +17,20 @@ $in_session = "0";
 <html>
 <head>
 <meta charset="utf-8"/>
-<title>Karcher Industrial Vacuum </title>
+<title>Karcher IVR 100/22 Textile - Industrial Vacuum | Delta Solutions</title>
+<link rel="canonical" href="https://delta-solutions.in/product/industrial-cleaner-ivr-100-22-t"/>
 <!-- Stylesheets -->
-<link href="css/bootstrap.css" rel="stylesheet"/>
-<link href="css/style.css" rel="stylesheet"/>
-<link href="css/responsive.css" rel="stylesheet"/>
+<link href="/css/bootstrap.css" rel="stylesheet"/>
+<link href="/css/style.css" rel="stylesheet"/>
+<link href="/css/responsive.css" rel="stylesheet"/>
 <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 <!--Favicon-->
-<link href="images/favicon.png" rel="shortcut icon" type="image/x-icon"/>
-<link href="images/favicon.png" rel="icon" type="image/x-icon"/>
+<link href="/images/favicon.png" rel="shortcut icon" type="image/x-icon"/>
+<link href="/images/favicon.png" rel="icon" type="image/x-icon"/>
 <!-- Responsive -->
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/>
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0WPY5YR5W4"></script>
 <script>
@@ -47,6 +47,100 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-K4ZLQJJ');</script>
 <!-- End Google Tag Manager -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Karcher IVR 100/22 Textile - Industrial Vacuum",
+  "image": [
+    "https://delta-solutions.in/images/product-images/Cleaning%20Machines/Industrial/IVR-100_22-Textile.png"
+  ],
+  "description": "These vacuum cleaners are mainly used in Paper, Textile, Packaging, Plastic industries. TVC series industrial vacuum cleaners are designed to collect light and bulk material in textile, paper and plastic industry. The vacuum unit is positioned at the bottom of the vacuum cleaner and the material is extracted through the suction inlet at the top of the vacuum cleaner, the material is collected in the filter cum collection bag. The collected material is compacted by the suction which makes it easy to collect more material in the available space. The filter bag can be easily taken out and the collected material can be emptied.",
+  "sku": "IVR 100/22 Textile",
+  "mpn": "IVR 100/22 Textile",
+  "brand": {
+    "@type": "Brand",
+    "name": "K\u00e4rcher"
+  },
+  "manufacturer": {
+    "@type": "Organization",
+    "name": "K\u00e4rcher"
+  },
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Voltage",
+      "value": "415 V"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Frequency",
+      "value": "50 Hz"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Electrical Protection",
+      "value": "55 IP"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Rated Power",
+      "value": "2.2 KW"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Air flow",
+      "value": "300 m3/min"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Vacuum Max",
+      "value": "3000 mm H2O"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Noise Level dB(A)",
+      "value": "72"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Container Capacity",
+      "value": "120 l"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Filter Type",
+      "value": "bag"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "inlet",
+      "value": "40 mm"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Weight",
+      "value": "40 kg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Dimensions (L \u00d7 W \u00d7 H)",
+      "value": "60x65x120 mm"
+    }
+  ],
+  "offers": {
+    "@type": "Offer",
+    "url": "https://delta-solutions.in/product/industrial-cleaner-ivr-100-22-t",
+    "itemCondition": "https://schema.org/NewCondition",
+    "availability": "https://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "Delta Solutions",
+      "url": "https://delta-solutions.in/"
+    }
+  }
+}
+</script>
 </head>
 <body>
 <!-- Google Tag Manager (noscript) -->
@@ -69,9 +163,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <section class="page-title" style="">
 <div class="auto-container">
 <ul class="page-breadcrumb">
-<li><a href="index.php">Home</a></li>
-<li><a href="cleaning-machines.php">Cleaning Machines</a></li>
-<li><a href="industrial-cleaner.php">Karcher Industrial Vacuum Cleaner</a></li>
+<li><a href="/index.php">Home</a></li>
+<li><a href="/cleaning-machines.php">Cleaning Machines</a></li>
+<li><a href="/industrial-cleaner.php">Karcher Industrial Vacuum Cleaner</a></li>
 <li>IVR 100/22 Textile</li>
 </ul>
 </div>
@@ -83,21 +177,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="col-md-4">
 <div class="vertical-item">
 <div class="item-media">
-<a data-fancybox="gallery" href="images/product-images/Cleaning Machines/Industrial/IVR-100_22-Textile.png"><img alt="Ivr 100 22 Textile - Industrial | Delta Solutions" src="images/product-images/Cleaning Machines/Industrial/IVR-100_22-Textile.png"/></a>
+<a data-fancybox="gallery" href="/images/product-images/Cleaning Machines/Industrial/IVR-100_22-Textile.png"><img alt="Ivr 100 22 Textile - Industrial | Delta Solutions" src="/images/product-images/Cleaning Machines/Industrial/IVR-100_22-Textile.png"/></a>
 </div>
-<div align="center"><a class="theme-btn btn-style-one" href="images/pdf/Cleaning Machines/Industrial/IVR-100-22-Textile.pdf" target="blank">Download Data Sheet</a></div>
+<div align="center"><a class="theme-btn btn-style-one" href="/images/pdf/Cleaning Machines/Industrial/IVR-100-22-Textile.pdf" target="blank">Download Data Sheet</a></div>
 </div>
 </div>
 <div class="col-md-8">
 <div class="vertical-item">
 <div class="item-content">
-<h4><span>Karcher Industrial Vacuum</span>
+<h1 class="product-title"><span>Karcher Industrial Vacuum</span>
 <p class="quote-btn">
-<button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["46"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["46"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
-<button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["46"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
+<button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["46"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["46"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="/images/add-to-cart.png" alt="Add to enquiry basket"></button>
+<button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["46"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="/images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["46"]["code"]; ?>" name="quantity" value="1" size="2" />
                                 <input type="hidden" id="remark_<?php echo $productArray["46"]["code"]; ?>" name="remark" value="" />
-                            </p></h4>
+                            </p></h1>
 <h5>(IVR 100/22 Textile)</h5><br/>
 <ul class="nav nav-tabs">
 <li class="active"><a data-toggle="tab" href="#one">Details</a></li>
@@ -146,20 +240,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!--End pagewrapper-->
 <!--Scroll to top-->
 <div class="scroll-to-top scroll-to-target" data-target="html"><span class="icon fa fa-arrow-up"></span></div>
-<script src="js/jquery.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/jquery-ui.js"></script>
-<script src="js/jquery.fancybox.js"></script>
-<script src="js/slick.min.js"></script>
-<script src="js/mixitup.js"></script>
-<script src="js/owl.js"></script>
-<script src="js/appear.js"></script>
-<script src="js/validate.js"></script>
-<script src="js/wow.js"></script>
-<script src="js/script.js"></script>
+<script src="/js/jquery.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+<script src="/js/jquery-ui.js"></script>
+<script src="/js/jquery.fancybox.js"></script>
+<script src="/js/slick.min.js"></script>
+<script src="/js/mixitup.js"></script>
+<script src="/js/owl.js"></script>
+<script src="/js/appear.js"></script>
+<script src="/js/validate.js"></script>
+<script src="/js/wow.js"></script>
+<script src="/js/script.js"></script>
 <!--Google Map APi Key-->
-<script src="http://maps.google.com/maps/api/js?key=AIzaSyDTPlX-43R1TpcQUyWjFgiSfL_BiGxslZU"></script>
-<script src="js/map-script.js"></script>
 <script type="text/javascript">
 $(document).ready(function () {
         $('.products').addClass('current');

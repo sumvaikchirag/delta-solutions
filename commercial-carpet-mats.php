@@ -57,18 +57,18 @@ $productArray = $product->getAllProduct();
         "url": "https://delta-solutions.in/images/300x75.png"
       },
       "email": "contact@delta-solutions.in",
-      "telephone": "+91-9315951397",
+      "telephone": "+91-93116-77446",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "712, Ansal Chambers 2, 6, Bhikaji Cama Place, Rama Krishna Puram",
+        "streetAddress": "1st Floor, F-3/9, Pocket F, Okhla Phase I, Okhla Industrial Estate",
         "addressLocality": "New Delhi",
         "addressRegion": "Delhi",
-        "postalCode": "110066",
+        "postalCode": "110020",
         "addressCountry": "IN"
       },
       "contactPoint": {
         "@type": "ContactPoint",
-        "telephone": "+91-9315951397",
+        "telephone": "+91-93116-77446",
         "email": "contact@delta-solutions.in",
         "contactType": "sales",
         "areaServed": "IN",
@@ -254,7 +254,6 @@ $productArray = $product->getAllProduct();
 }
 </script>
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0WPY5YR5W4"></script>
 <script>

@@ -16,7 +16,6 @@
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/>
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0WPY5YR5W4"></script>
 <script>
@@ -163,10 +162,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li><b>Email:</b> <a href="mailto:contact@delta-solutions.in">contact@delta-solutions.in</a></li>
 <li><b>Phone:</b> <a href="tel:+91 9311677446">+91 9311677446</a></li>
 <li><b>Address:</b><br/>
-                                712, Ansal Chambers 2,
-                                6, Bhikaji Cama Place,
-                                Rama Krishna Puram,
-                                New Delhi, Delhi, India - 110066</li>
+                                1st Floor, F-3/9, Pocket F,
+                                Okhla Phase I, Okhla Industrial Estate,
+                                New Delhi, Delhi, India - 110020</li>
 </ul>
 <p>Thank you for trusting Delta Solutions with your information. Your privacy and satisfaction are of utmost importance to us.</p>
 </div>

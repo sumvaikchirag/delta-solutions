@@ -42,7 +42,6 @@ $in_session = "0";
 <meta content="https://delta-solutions.in/cold-water-high-pressure" property="og:url"/>
 <meta content="https://delta-solutions.in/images/product-images/Cleaning%20Machines/Cold%20water%20high%20pressure/5_11-cage-classic.png" property="og:image"/>
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <meta content="Get Karcher Cold Water High Pressure Machines at best price. Click to learn more." name="description"/>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0WPY5YR5W4"></script>
@@ -100,67 +99,67 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           "@type": "ListItem",
           "position": 1,
           "name": "Karcher Cold Water High Pressure - Basic (Item Code : HD 5/11 Cage Classic)",
-          "url": "https://delta-solutions.in/cold-water-high-pressure-hd-5-11-c.php"
+          "url": "https://delta-solutions.in/product/cold-water-high-pressure-hd-5-11-c"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Karcher Cold Water High Pressure - Compact (Item Code : HD 5/12 C)",
-          "url": "https://delta-solutions.in/cold-water-high-pressure-hd-5-12-c.php"
+          "url": "https://delta-solutions.in/product/cold-water-high-pressure-hd-5-12-c"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Karcher Cold Water High Pressure - Classic (Item Code : HD 6/15-4 Classic Kap)",
-          "url": "https://delta-solutions.in/cold-water-high-pressure-hd-6-15-4-c.php"
+          "url": "https://delta-solutions.in/product/cold-water-high-pressure-hd-6-15-4-c"
         },
         {
           "@type": "ListItem",
           "position": 4,
           "name": "Karcher Cold Water High Pressure - Middle Class (Item Code : HD 6/15 M)",
-          "url": "https://delta-solutions.in/cold-water-high-pressure-hd-6-15-m.php"
+          "url": "https://delta-solutions.in/product/cold-water-high-pressure-hd-6-15-m"
         },
         {
           "@type": "ListItem",
           "position": 5,
           "name": "Karcher Cold Water High Pressure - Middle Class (Item Code : HD 8/18-4 M)",
-          "url": "https://delta-solutions.in/cold-water-high-pressure-hd-8-18-4-m.php"
+          "url": "https://delta-solutions.in/product/cold-water-high-pressure-hd-8-18-4-m"
         },
         {
           "@type": "ListItem",
           "position": 6,
           "name": "Karcher Cold Water High Pressure - Middle Class (Item Code : HD 9/20-4 Classic KAP)",
-          "url": "https://delta-solutions.in/cold-water-high-pressure-hd-9-20-4-c.php"
+          "url": "https://delta-solutions.in/product/cold-water-high-pressure-hd-9-20-4-c"
         },
         {
           "@type": "ListItem",
           "position": 7,
           "name": "Karcher Cold Water High Pressure - Super Class (Item Code : HD 10/25-4 S)",
-          "url": "https://delta-solutions.in/cold-water-high-pressure-hd-10-25-4-s.php"
+          "url": "https://delta-solutions.in/product/cold-water-high-pressure-hd-10-25-4-s"
         },
         {
           "@type": "ListItem",
           "position": 8,
           "name": "Karcher Cold Water High Pressure - Ultra Class (Item Code : HD 9/50-4)",
-          "url": "https://delta-solutions.in/cold-water-high-pressure-hd-9-50-4.php"
+          "url": "https://delta-solutions.in/product/cold-water-high-pressure-hd-9-50-4"
         },
         {
           "@type": "ListItem",
           "position": 9,
           "name": "Karcher Cold Water High Pressure - Ultra Class (Item Code : HD 9/100-4)",
-          "url": "https://delta-solutions.in/cold-water-high-pressure-hd-9-100-4.php"
+          "url": "https://delta-solutions.in/product/cold-water-high-pressure-hd-9-100-4"
         },
         {
           "@type": "ListItem",
           "position": 10,
           "name": "Karcher Cold Water High Pressure - Special Class (Item Code : HD 7/16 Cage Classic)",
-          "url": "https://delta-solutions.in/cold-water-high-pressure-hd-7-16-c.php"
+          "url": "https://delta-solutions.in/product/cold-water-high-pressure-hd-7-16-c"
         },
         {
           "@type": "ListItem",
           "position": 11,
           "name": "Karcher Cold Water High Pressure - Special Class (Item Code : HD 10/15-4 Cage Food)",
-          "url": "https://delta-solutions.in/cold-water-high-pressure-hd-10-15-4-c.php"
+          "url": "https://delta-solutions.in/product/cold-water-high-pressure-hd-10-15-4-c"
         }
       ]
     },
@@ -249,7 +248,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row clearfix">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
 <div align="center" class="image-box">
-<a href="cold-water-high-pressure-hd-5-11-c.php">
+<a href="/product/cold-water-high-pressure-hd-5-11-c">
 <img alt="5 11 Cage Classic - Cold Water High Pressure | Delta Solutions" class="drift-demo-trigger" data-zoom="images/product-images/Cleaning Machines/Cold water high pressure/5_11-cage-classic-large.jpg" src="images/product-images/Cleaning Machines/Cold water high pressure/5_11-cage-classic.png"/>
 </a>
 </div>
@@ -273,7 +272,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="cold-water-high-pressure-hd-5-11-c.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/cold-water-high-pressure-hd-5-11-c">Know More</a>
 <!-- <a href="contact.php" class="theme-btn btn-style-one">Request A Quote</a> -->
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["16"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["16"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["16"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
@@ -288,7 +287,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row clearfix">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
 <div align="center" class="image-box">
-<a href="cold-water-high-pressure-hd-5-12-c.php">
+<a href="/product/cold-water-high-pressure-hd-5-12-c">
 <img alt="Hd 5 12 C - Cold Water High Pressure | Delta Solutions" class="drift-demo-trigger" data-zoom="images/product-images/Cleaning Machines/Cold water high pressure/HD-5_12-C-large.jpg" src="images/product-images/Cleaning Machines/Cold water high pressure/HD-5_12-C.png"/>
 </a>
 </div>
@@ -312,7 +311,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="cold-water-high-pressure-hd-5-12-c.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/cold-water-high-pressure-hd-5-12-c">Know More</a>
 <!-- <a href="contact.php" class="theme-btn btn-style-one">Request A Quote</a> -->
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["17"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["17"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["17"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
@@ -327,7 +326,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row clearfix">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
 <div align="center" class="image-box">
-<a href="cold-water-high-pressure-hd-6-15-4-c.php">
+<a href="/product/cold-water-high-pressure-hd-6-15-4-c">
 <img alt="6 15 4 Classic Kap - Cold Water High Pressure | Delta Solutions" class="drift-demo-trigger" data-zoom="images/product-images/Cleaning Machines/Cold water high pressure/6_15-4-classic-KAP-large.jpg" src="images/product-images/Cleaning Machines/Cold water high pressure/6_15-4-classic-KAP.png"/>
 </a>
 </div>
@@ -351,7 +350,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="cold-water-high-pressure-hd-6-15-4-c.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/cold-water-high-pressure-hd-6-15-4-c">Know More</a>
 <!-- <a href="contact.php" class="theme-btn btn-style-one">Request A Quote</a> -->
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["18"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["18"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["18"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
@@ -366,7 +365,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row clearfix">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
 <div align="center" class="image-box">
-<a href="cold-water-high-pressure-hd-6-15-m.php">
+<a href="/product/cold-water-high-pressure-hd-6-15-m">
 <img alt="Hd 6 15 M - Cold Water High Pressure | Delta Solutions" class="drift-demo-trigger" data-zoom="images/product-images/Cleaning Machines/Cold water high pressure/hd-6_15-M-large.jpg" src="images/product-images/Cleaning Machines/Cold water high pressure/hd-6_15-M.png"/>
 </a>
 </div>
@@ -390,7 +389,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="cold-water-high-pressure-hd-6-15-m.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/cold-water-high-pressure-hd-6-15-m">Know More</a>
 <!-- <a href="contact.php" class="theme-btn btn-style-one">Request A Quote</a> -->
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["19"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["19"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["19"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
@@ -405,7 +404,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row clearfix">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
 <div align="center" class="image-box">
-<a href="cold-water-high-pressure-hd-8-18-4-m.php">
+<a href="/product/cold-water-high-pressure-hd-8-18-4-m">
 <img alt="Hd 8 18 4 M - Cold Water High Pressure | Delta Solutions" class="drift-demo-trigger" data-zoom="images/product-images/Cleaning Machines/Cold water high pressure/hd-8_18-4-M-large.jpg" src="images/product-images/Cleaning Machines/Cold water high pressure/hd-8_18-4-M.png"/>
 </a>
 </div>
@@ -429,7 +428,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="cold-water-high-pressure-hd-8-18-4-m.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/cold-water-high-pressure-hd-8-18-4-m">Know More</a>
 <!-- <a href="contact.php" class="theme-btn btn-style-one">Request A Quote</a> -->
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["20"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["20"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["20"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
@@ -444,7 +443,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row clearfix">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
 <div align="center" class="image-box">
-<a href="cold-water-high-pressure-hd-9-20-4-c.php">
+<a href="/product/cold-water-high-pressure-hd-9-20-4-c">
 <img alt="9 20 4 Kap Classic - Cold Water High Pressure | Delta Solutions" class="drift-demo-trigger" data-zoom="images/product-images/Cleaning Machines/Cold water high pressure/9_20-4-KAP-Classic-large.jpg" src="images/product-images/Cleaning Machines/Cold water high pressure/9_20-4-KAP-Classic.png"/>
 </a>
 </div>
@@ -468,7 +467,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="cold-water-high-pressure-hd-9-20-4-c.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/cold-water-high-pressure-hd-9-20-4-c">Know More</a>
 <!-- <a href="contact.php" class="theme-btn btn-style-one">Request A Quote</a> -->
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["21"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["21"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["21"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
@@ -483,7 +482,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row clearfix">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
 <div align="center" class="image-box">
-<a href="cold-water-high-pressure-hd-10-25-4-s.php">
+<a href="/product/cold-water-high-pressure-hd-10-25-4-s">
 <img alt="Hd 10 25 4 S - Cold Water High Pressure | Delta Solutions" class="drift-demo-trigger" data-zoom="images/product-images/Cleaning Machines/Cold water high pressure/HD-10_25-4-S-large.jpg" src="images/product-images/Cleaning Machines/Cold water high pressure/HD-10_25-4-S.png"/>
 </a>
 </div>
@@ -507,7 +506,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="cold-water-high-pressure-hd-10-25-4-s.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/cold-water-high-pressure-hd-10-25-4-s">Know More</a>
 <!-- <a href="contact.php" class="theme-btn btn-style-one">Request A Quote</a> -->
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["22"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["22"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["22"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
@@ -522,7 +521,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row clearfix">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
 <div align="center" class="image-box">
-<a href="cold-water-high-pressure-hd-9-50-4.php">
+<a href="/product/cold-water-high-pressure-hd-9-50-4">
 <img alt="Hd 9 50 4 - Cold Water High Pressure | Delta Solutions" class="drift-demo-trigger" data-zoom="images/product-images/Cleaning Machines/Cold water high pressure/HD-9_50-4-large.jpg" src="images/product-images/Cleaning Machines/Cold water high pressure/HD-9_50-4.png"/>
 </a>
 </div>
@@ -547,7 +546,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="cold-water-high-pressure-hd-9-50-4.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/cold-water-high-pressure-hd-9-50-4">Know More</a>
 <!-- <a href="contact.php" class="theme-btn btn-style-one">Request A Quote</a> -->
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["23"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["23"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["23"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
@@ -562,7 +561,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row clearfix">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
 <div align="center" class="image-box">
-<a href="cold-water-high-pressure-hd-9-100-4.php">
+<a href="/product/cold-water-high-pressure-hd-9-100-4">
 <img alt="Hd 9 100 4 - Cold Water High Pressure | Delta Solutions" class="drift-demo-trigger" data-zoom="images/product-images/Cleaning Machines/Cold water high pressure/HD-9_100-4-large.jpg" src="images/product-images/Cleaning Machines/Cold water high pressure/HD-9_100-4.png"/>
 </a>
 </div>
@@ -588,7 +587,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="cold-water-high-pressure-hd-9-100-4.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/cold-water-high-pressure-hd-9-100-4">Know More</a>
 <!-- <a href="contact.php" class="theme-btn btn-style-one">Request A Quote</a> -->
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["24"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["24"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["24"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
@@ -603,7 +602,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row clearfix">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
 <div align="center" class="image-box">
-<a href="cold-water-high-pressure-hd-7-16-c.php">
+<a href="/product/cold-water-high-pressure-hd-7-16-c">
 <img alt="Hd 7 16 Cage Classic - Cold Water High Pressure | Delta Solutions" class="drift-demo-trigger" data-zoom="images/product-images/Cleaning Machines/Cold water high pressure/HD-7-16-Cage-Classic.jpg" src="images/product-images/Cleaning Machines/Cold water high pressure/HD-7-16-Cage-Classic.jpg"/>
 </a>
 </div>
@@ -627,7 +626,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="cold-water-high-pressure-hd-7-16-c.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/cold-water-high-pressure-hd-7-16-c">Know More</a>
 <!-- <a href="contact.php" class="theme-btn btn-style-one">Request A Quote</a> -->
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["25"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["25"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["25"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
@@ -642,7 +641,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row clearfix">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
 <div align="center" class="image-box">
-<a href="cold-water-high-pressure-hd-10-15-4-c.php">
+<a href="/product/cold-water-high-pressure-hd-10-15-4-c">
 <img alt="Hd 10 15 4 Cage Food - Cold Water High Pressure | Delta Solutions" class="drift-demo-trigger" data-zoom="images/product-images/Cleaning Machines/Cold water high pressure/HD-10-15-4-cage-food.jpg" src="images/product-images/Cleaning Machines/Cold water high pressure/HD-10-15-4-cage-food.jpg"/>
 </a>
 </div>
@@ -669,7 +668,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="cold-water-high-pressure-hd-10-15-4-c.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/cold-water-high-pressure-hd-10-15-4-c">Know More</a>
 <!-- <a href="contact.php" class="theme-btn btn-style-one">Request A Quote</a> -->
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["26"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["26"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["26"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
@@ -700,8 +699,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script src="js/wow.js"></script>
 <script src="js/script.js"></script>
 <!--Google Map APi Key-->
-<script src="https://maps.google.com/maps/api/js?key=AIzaSyDTPlX-43R1TpcQUyWjFgiSfL_BiGxslZU"></script>
-<script src="js/map-script.js"></script>
 <script type="text/javascript">
 $(document).ready(function () {
         $('.products').addClass('current');

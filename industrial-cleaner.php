@@ -42,7 +42,6 @@ $in_session = "0";
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/>
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0WPY5YR5W4"></script>
 <script>
@@ -99,31 +98,31 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           "@type": "ListItem",
           "position": 1,
           "name": "Karcher Industrial Vacuum (IVR 100/22 Sc)",
-          "url": "https://delta-solutions.in/industrial-cleaner-ivr-100-22-sc.php"
+          "url": "https://delta-solutions.in/product/industrial-cleaner-ivr-100-22-sc"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Karcher Industrial Vacuum - Textile (IVR 100/22 Textile)",
-          "url": "https://delta-solutions.in/industrial-cleaner-ivr-100-22-t.php"
+          "url": "https://delta-solutions.in/product/industrial-cleaner-ivr-100-22-t"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Karcher Industrial Vacuum (IVM 100/22 Sc)",
-          "url": "https://delta-solutions.in/industrial-cleaner-ivm-100-22-sc.php"
+          "url": "https://delta-solutions.in/product/industrial-cleaner-ivm-100-22-sc"
         },
         {
           "@type": "ListItem",
           "position": 4,
           "name": "Karcher Industrial Vacuum (IVM 100/55 Sc)",
-          "url": "https://delta-solutions.in/industrial-cleaner-ivm-100-55-sc.php"
+          "url": "https://delta-solutions.in/product/industrial-cleaner-ivm-100-55-sc"
         },
         {
           "@type": "ListItem",
           "position": 5,
           "name": "Karcher Industrial Vacuum (IVC 60/30 Tact 2)",
-          "url": "https://delta-solutions.in/industrial-cleaner-ivc-60-30-t.php"
+          "url": "https://delta-solutions.in/product/industrial-cleaner-ivc-60-30-t"
         }
       ]
     },
@@ -303,7 +302,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row clearfix">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
 <div class="image-box">
-<a href="industrial-cleaner-ivr-100-22-sc.php">
+<a href="/product/industrial-cleaner-ivr-100-22-sc">
 <img alt="Ivr 100 22 Sc - Industrial | Delta Solutions" src="images/product-images/Cleaning Machines/Industrial/IVR-100_22-Sc.png"/></a>
 </div>
 </div>
@@ -334,7 +333,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="industrial-cleaner-ivr-100-22-sc.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/industrial-cleaner-ivr-100-22-sc">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["45"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["45"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["45"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["45"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -348,7 +347,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row clearfix">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
 <div class="image-box">
-<a href="industrial-cleaner-ivr-100-22-t.php">
+<a href="/product/industrial-cleaner-ivr-100-22-t">
 <img alt="Ivr 100 22 Textile - Industrial | Delta Solutions" src="images/product-images/Cleaning Machines/Industrial/IVR-100_22-Textile.png"/></a>
 </div>
 </div>
@@ -376,7 +375,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="industrial-cleaner-ivr-100-22-t.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/industrial-cleaner-ivr-100-22-t">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["46"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["46"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["46"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["46"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -390,7 +389,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row clearfix">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
 <div class="image-box">
-<a href="industrial-cleaner-ivm-100-22-sc.php">
+<a href="/product/industrial-cleaner-ivm-100-22-sc">
 <img alt="Ivm 100 22 Sc - Industrial | Delta Solutions" src="images/product-images/Cleaning Machines/Industrial/IVM-100_22-Sc.png"/></a>
 </div>
 </div>
@@ -421,7 +420,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="industrial-cleaner-ivm-100-22-sc.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/industrial-cleaner-ivm-100-22-sc">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["47"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["47"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["47"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["47"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -435,7 +434,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row clearfix">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
 <div class="image-box">
-<a href="industrial-cleaner-ivm-100-55-sc.php"><img alt="Ivm 100 55 Sc - Industrial | Delta Solutions" src="images/product-images/Cleaning Machines/Industrial/IVM-100_55-Sc.png"/></a>
+<a href="/product/industrial-cleaner-ivm-100-55-sc"><img alt="Ivm 100 55 Sc - Industrial | Delta Solutions" src="images/product-images/Cleaning Machines/Industrial/IVM-100_55-Sc.png"/></a>
 </div>
 </div>
 <div class="info-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
@@ -465,7 +464,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="industrial-cleaner-ivm-100-55-sc.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/industrial-cleaner-ivm-100-55-sc">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["48"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["48"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["48"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["48"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -479,7 +478,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row clearfix">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
 <div class="image-box">
-<a href="industrial-cleaner-ivc-60-30-t.php">
+<a href="/product/industrial-cleaner-ivc-60-30-t">
 <img alt="Ivc 60 30 Tact 2 - Industrial | Delta Solutions" src="images/product-images/Cleaning Machines/Industrial/IVC-60-30-tact-2.jpg"/></a>
 </div>
 </div>
@@ -505,7 +504,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="industrial-cleaner-ivc-60-30-t.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/industrial-cleaner-ivc-60-30-t">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["49"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["49"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["49"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["49"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -524,7 +523,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p>The industrial vacuum cleaner range available through Delta Solutions therefore covers different performance levels and applications&mdash;from specialised textile material collection to continuous and heavy-duty industrial cleaning.</p>
 
 <h3>K&auml;rcher IVR 100/22 Sc Industrial Vacuum Cleaner</h3>
-<p>The <strong><a href="/industrial-cleaner-ivr-100-22-sc.php">IVR 100/22 Sc</a></strong> is designed for continuous and heavy-duty industrial applications. According to its product documentation, it is suitable for industries including automobile, manufacturing, engineering, food, chemical, steel, cement, foundry and ceramic.</p>
+<p>The <strong><a href="/product/industrial-cleaner-ivr-100-22-sc">IVR 100/22 Sc</a></strong> is designed for continuous and heavy-duty industrial applications. According to its product documentation, it is suitable for industries including automobile, manufacturing, engineering, food, chemical, steel, cement, foundry and ceramic.</p>
 <p>A continuous-duty three-phase side-channel vacuum unit provides the vacuum and airflow required for demanding applications. The machine combines a <strong>2.2 kW rated power</strong> with <strong>300 m&sup3;/h airflow</strong> and a maximum vacuum of <strong>3,000 mm H₂O</strong>.</p>
 <p>Its 85-litre collection capacity helps accommodate substantial quantities of collected material, while the 80 mm inlet allows different hose and accessory sizes to be selected according to the application. A large 20,000 cm&sup2; polyester star filter provides substantial filtration surface, and the manual filter-cleaning arrangement allows the operator to clean the filter without dismantling it.</p>
 <p>The detachable collection container is another practical advantage where collected material must be emptied regularly. The brochure also identifies a heavy-duty chassis, four large wheels, powder-coated and zinc-plated steel components, and a vacuum gauge for monitoring vacuum level and filter clogging.</p>
@@ -1040,7 +1039,7 @@ The industrial vacuum range available through Delta Solutions uses different con
 <p>The correct machine still depends on what the production process generates and where vacuuming needs to take place.</p>
 <h3>Textile, Paper, Packaging and Plastic Industries</h3>
 <p>These industries deserve their own treatment because Delta has an application-specific model for them.</p>
-<p>The <strong></strong><a href="/industrial-cleaner-ivr-100-22-t.php">IVR 100/22 Textile</a></strong> is designed to collect light and bulky material in textile, paper and plastic environments, while the brochure also lists packaging among its primary applications.</p>
+<p>The <strong></strong><a href="/product/industrial-cleaner-ivr-100-22-t">IVR 100/22 Textile</a></strong> is designed to collect light and bulky material in textile, paper and plastic environments, while the brochure also lists packaging among its primary applications.</p>
 <p>The filter-cum-collection bag and suction-compaction approach are particularly relevant here because the challenge is not merely collecting conventional floor dust.</p>
 <h3>Steel, Cement, Foundry and Ceramic Industries</h3>
 <p>Steel, cement, foundry and ceramic are specifically identified in the documentation for the IVR 100/22 Sc and IVM Sc industrial vacuum machines.</p>
@@ -1116,7 +1115,7 @@ The industrial vacuum range available through Delta Solutions uses different con
 <p>An <strong>Industrial Vacuum Cleaner</strong> should solve a specific operational problem.</p>
 <p>That may mean collecting dust and debris continuously in a manufacturing facility, recovering light and bulky material in a textile operation, cleaning around production machinery or handling a more demanding application requiring greater airflow.</p>
 <p>The five machines available through Delta Solutions demonstrate why there is no meaningful one-size-fits-all answer.</p>
-<p>The <strong>IVR 100/22 Sc</strong> provides a continuous-duty 2.2 kW configuration with an 85-litre collection system. The <strong>IVR 100/22 Textile</strong> addresses light and bulky material with its 120-litre filter/collection arrangement. The <strong><a href="/industrial-cleaner-ivm-100-22-sc.php">IVM 100/22 Sc</a></strong> provides a 2.2 kW, 300 m&sup3;/h configuration, while the <strong><a href="/industrial-cleaner-ivm-100-55-sc">IVM 100/55 Sc</a></strong> raises rated power to 5.5 kW and airflow to 600 m&sup3;/h. The <strong>IVC 60/30 Tact&sup2;</strong>, meanwhile, is specifically positioned for manufacturing areas and production machinery.</p>
+<p>The <strong>IVR 100/22 Sc</strong> provides a continuous-duty 2.2 kW configuration with an 85-litre collection system. The <strong>IVR 100/22 Textile</strong> addresses light and bulky material with its 120-litre filter/collection arrangement. The <strong><a href="/product/industrial-cleaner-ivm-100-22-sc">IVM 100/22 Sc</a></strong> provides a 2.2 kW, 300 m&sup3;/h configuration, while the <strong><a href="/product/industrial-cleaner-ivm-100-55-sc">IVM 100/55 Sc</a></strong> raises rated power to 5.5 kW and airflow to 600 m&sup3;/h. The <strong>IVC 60/30 Tact&sup2;</strong>, meanwhile, is specifically positioned for manufacturing areas and production machinery.</p>
 <p>For buyers searching for the <strong>Best Industrial Vacuum Cleaner in India</strong>, the real objective should therefore be to find the best match for the application&mdash;not simply the highest specification.</p>
 <p>Delta Solutions can help businesses across Delhi NCR evaluate the requirement against material type, collection volume, duty cycle, filtration and operating conditions.</p>
 
@@ -1177,7 +1176,7 @@ Within the range covered on this page, specific machines are documented for cont
 <div class="panel">
 <p style="margin-left: 8rem">The key difference is the intended operating environment and application.
 <br>
-The industrial machines covered here include features such as continuous-duty three-phase side-channel vacuum units, large filtration surfaces, industrial collection arrangements and heavy-duty chassis designs. The <strong><a href="/industrial-cleaner-ivc-60-30-t">IVC 60/30 Tact²</a></strong>, for example, is specifically designed for manufacturing areas and production machinery and is documented as suitable for continuous use.
+The industrial machines covered here include features such as continuous-duty three-phase side-channel vacuum units, large filtration surfaces, industrial collection arrangements and heavy-duty chassis designs. The <strong><a href="/product/industrial-cleaner-ivc-60-30-t">IVC 60/30 Tact²</a></strong>, for example, is specifically designed for manufacturing areas and production machinery and is documented as suitable for continuous use.
 <br>
 Equipment should still be selected according to the actual material and operating requirement rather than assuming every industrial vacuum is suitable for every industrial application.</p>
 </div>
@@ -1263,8 +1262,6 @@ for (i = 0; i < acc.length; i++) {
 <script src="js/wow.js"></script>
 <script src="js/script.js"></script>
 <!--Google Map APi Key-->
-<script src="https://maps.google.com/maps/api/js?key=AIzaSyDTPlX-43R1TpcQUyWjFgiSfL_BiGxslZU"></script>
-<script src="js/map-script.js"></script>
 <script type="text/javascript">
 $(document).ready(function () {
         $('.products').addClass('current');

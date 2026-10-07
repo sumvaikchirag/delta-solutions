@@ -31,7 +31,6 @@ $productArray = $product->getAllProduct();
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/>
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0WPY5YR5W4"></script>
 <script>
@@ -120,7 +119,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="liquid-soap-protect-hands.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/liquid-soap-protect-hands">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["70"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["70"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["70"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["70"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -158,7 +157,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="liquid-soap-aqua-ab.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/liquid-soap-aqua-ab">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["73"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["73"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["73"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["73"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -189,7 +188,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="liquid-soap-aqua-or.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/liquid-soap-aqua-or">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["71"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["71"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["71"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["71"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -225,7 +224,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="liquid-soap-aqua-or-rose.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/liquid-soap-aqua-or-rose">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["75"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["75"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["75"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["75"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -259,7 +258,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="liquid-soap-planta-lotion.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/liquid-soap-planta-lotion">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["74"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["74"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["74"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["74"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -294,7 +293,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="liquid-soap-rosa-aqua-br-803.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/liquid-soap-rosa-aqua-br-803">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["53"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["53"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["53"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["53"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -350,8 +349,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script src="js/wow.js"></script>
 <script src="js/script.js"></script>
 <!--Google Map APi Key-->
-<script src="https://maps.google.com/maps/api/js?key=AIzaSyDTPlX-43R1TpcQUyWjFgiSfL_BiGxslZU"></script>
-<script src="js/map-script.js"></script>
 <script type="text/javascript">
 $(document).ready(function () {
         $('.products').addClass('current');

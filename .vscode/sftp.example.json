@@ -9,12 +9,12 @@
   "uploadOnSave": true,
   "watcher": {
     "files": "**/*",
-    "autoUpload": true,
+    "autoUpload": false,
     "autoDelete": false
   },
   "secure": false,
   "ignore": [
-    ".vscode", ".git", ".gitignore", ".gitattributes", ".DS_Store", "node_modules", "vendor", "error_log",
+    ".vscode", ".cursor", ".git", ".gitignore", ".gitattributes", ".DS_Store", "node_modules", "vendor", "error_log",
     "/bhotikagroup.co.in", "/cgi-bin", "/crm.delta-solutions.in",
     "/delta-solutions.in", "/deltasolutions", "/magia.co.in", "/tbsonline.in", "/.well-known"
   ]

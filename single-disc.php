@@ -31,7 +31,6 @@ $in_session = "0";
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/>
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <meta content="Explore Kärcher Single Disc Machine for professional floor cleaning and scrubbing. Get BDS 43/150 C Classic from Delta Solutions in Delhi NCR." name="description"/>
 <meta content="karcher single disc machine, single disc machine, single disc" name="keywords"/>
@@ -86,7 +85,7 @@ $in_session = "0";
           "@type": "ListItem",
           "position": 1,
           "name": "Karcher Single Disc (BDS 43/150 C Classic)",
-          "url": "https://delta-solutions.in/single-disc-bds-43-150-c.php"
+          "url": "https://delta-solutions.in/product/single-disc-bds-43-150-c"
         }
       ]
     },
@@ -239,7 +238,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 <p>A professional Single Disc Machine is designed for intensive floor cleaning and maintenance tasks where ordinary mopping or routine cleaning may not deliver the required result. By combining a rotating brush or pad with controlled machine movement, it can support floor scrubbing and other maintenance applications depending on the floor surface, accessory and cleaning procedure being used.</p><br>
 
-<p>At Delta Solutions, we offer the <a href="https://delta-solutions.in/single-disc-bds-43-150-c.php">Kärcher BDS 43/150 C Classic</a> *IN for professional floor cleaning requirements across Delhi NCR. Built with a powerful 1500 W motor, 150 rpm brush speed and robust construction, the machine is designed for diverse floor-cleaning applications in commercial, institutional and appropriate industrial environments.</p><br>
+<p>At Delta Solutions, we offer the <a href="https://delta-solutions.in/product/single-disc-bds-43-150-c">Kärcher BDS 43/150 C Classic</a> *IN for professional floor cleaning requirements across Delhi NCR. Built with a powerful 1500 W motor, 150 rpm brush speed and robust construction, the machine is designed for diverse floor-cleaning applications in commercial, institutional and appropriate industrial environments.</p><br>
 
 <p>For facility managers, housekeeping teams and purchase managers, choosing a single disc floor cleaning machine should involve more than comparing motor power. Floor type, cleaning objective, brush or pad selection, machine handling and frequency of use all influence whether the equipment is right for the application.</p><br>
 
@@ -248,7 +247,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row clearfix">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
 <div class="image-box">
-<a href="single-disc-bds-43-150-c.php">
+<a href="/product/single-disc-bds-43-150-c">
 <img alt="Bds 43 150 C Classic - Single Disk | Delta Solutions" class="drift-demo-trigger" data-zoom="images/product-images/Cleaning Machines/Single Disk/BDS-43_150-C-Classic-large.jpg" src="images/product-images/Cleaning Machines/Single Disk/BDS-43_150-C-Classic.png"/>
 </a>
 </div>
@@ -271,7 +270,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="single-disc-bds-43-150-c.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/single-disc-bds-43-150-c">Know More</a>
 <!-- <a href="contact.php" class="theme-btn btn-style-one">Request A Quote</a> -->
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["30"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["30"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["30"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
@@ -287,7 +286,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Project Section Two -->
 <div style="padding-left: 10rem; padding-right: 10rem; margin-top: 20px;">
 <h2>K&auml;rcher BDS 43/150 C Classic Single Disc Machine</h2>
-<p>The *<strong><em><a href="https://delta-solutions.in/single-disc-bds-43-150-c.php">K&auml;rcher BDS 43/150 C Classic</a></strong> <em>IN</em></em> is a robust single-disc machine developed for diverse professional floor-cleaning applications.</p>
+<p>The *<strong><em><a href="https://delta-solutions.in/product/single-disc-bds-43-150-c">K&auml;rcher BDS 43/150 C Classic</a></strong> <em>IN</em></em> is a robust single-disc machine developed for diverse professional floor-cleaning applications.</p>
 <p>At the heart of the machine is a <strong>1500 W motor</strong> combined with a <strong>150 rpm brush speed</strong>. Rather than treating these figures as specifications alone, professional buyers should consider what they mean operationally: the machine is configured for controlled mechanical floor cleaning where consistent brush or pad action is required.</p>
 <p>The BDS 43/150 C Classic *IN also uses a <strong>maintenance-free planetary carrier</strong>, an important feature highlighted in the supplied product documentation. For organisations where cleaning equipment is used routinely, robust construction and reduced maintenance requirements can be important considerations alongside cleaning performance.</p>
 <p>With a listed machine weight of <strong>43 kg</strong>, the unit also has the physical weight needed for professional floor-contact applications while remaining operator-controlled.</p>
@@ -769,8 +768,6 @@ for (i = 0; i < acc.length; i++) {
 <script src="js/wow.js"></script>
 <script src="js/script.js"></script>
 <!--Google Map APi Key-->
-<script src="https://maps.google.com/maps/api/js?key=AIzaSyDTPlX-43R1TpcQUyWjFgiSfL_BiGxslZU"></script>
-<script src="js/map-script.js"></script>
 <script type="text/javascript">
 $(document).ready(function () {
         $('.products').addClass('current');

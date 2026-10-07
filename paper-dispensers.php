@@ -18,6 +18,7 @@ $productArray = $product->getAllProduct();
 <head>
 <meta charset="utf-8"/>
 <title>Paper Dispensers by Delta Solutions | SS &amp; ABS Paper Dispensers</title>
+<link rel="canonical" href="https://delta-solutions.in/paper-dispensers"/>
 <!-- Stylesheets -->
 <link href="css/bootstrap.css" rel="stylesheet"/>
 <link href="css/style.css" rel="stylesheet"/>
@@ -30,7 +31,6 @@ $productArray = $product->getAllProduct();
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/>
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0WPY5YR5W4"></script>
 <script>
@@ -79,7 +79,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <section class="projects-section-four">
 <div class="auto-container">
 <div class="sec-title text-center">
-<h2>Paper Dispensers</h2>
+<h1>Paper Dispensers</h1>
 </div>
 <div class="row clearfix">
 <!-- Project Block -->

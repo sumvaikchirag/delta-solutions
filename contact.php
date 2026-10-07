@@ -20,7 +20,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
 
 <!-- Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-0WPY5YR5W4"></script>
@@ -111,7 +110,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="info-column col-md-4 col-sm-6 col-xs-12 ">
           <div class="branch-info-box">
             <div class="lower-content">
-              <div class="widget-title"><h2>Contact Us</h2></div>
+              <div class="widget-title"><h1 style="position:relative;display:block;font-size:25px;line-height:1.2em;color:#303030;font-weight:700;">Contact Us</h1></div>
               <ul>
                 <li>
                   <span class="icon"><i class="fa fa-building" aria-hidden="true"></i></span>
@@ -257,7 +256,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script src="js/validate.js"></script>
 <script src="js/wow.js"></script>
 <script src="js/script.js"></script>
-<script src="js/map-script.js"></script>
 
 <script type="text/javascript">
   $(document).ready(function () {

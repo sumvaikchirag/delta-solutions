@@ -30,7 +30,6 @@ $productArray = $product->getAllProduct();
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/>
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0WPY5YR5W4"></script>
 <script>
@@ -148,7 +147,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="housekeeping-ross-wr.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/housekeeping-ross-wr">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["52"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["52"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["52"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["52"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -181,7 +180,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="housekeeping-ross-fc-h.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/housekeeping-ross-fc-h">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["54"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["54"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["54"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["54"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -214,7 +213,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="housekeeping-blitz-citro.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/housekeeping-blitz-citro">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["55"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["55"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["55"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["55"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -245,7 +244,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="housekeeping-profiglass.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/housekeeping-profiglass">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["56"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["56"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["56"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["56"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -278,7 +277,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="housekeeping-ross-gc.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/housekeeping-ross-gc">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["158"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["158"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["158"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["158"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -311,7 +310,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="housekeeping-finnese.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/housekeeping-finnese">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["57"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["57"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["57"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["57"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -345,7 +344,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="housekeeping-fresh-lavender.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/housekeeping-fresh-lavender">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["58"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["58"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["58"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["58"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -379,7 +378,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="housekeeping-fresh-lavender.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/housekeeping-fresh-lavender">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["59"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["59"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["59"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["59"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -410,7 +409,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="housekeeping-ross-tc.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/housekeeping-ross-tc">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["60"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["60"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["60"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["60"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -445,7 +444,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="housekeeping-fresh-citral.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/housekeeping-fresh-citral">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["61"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["61"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["61"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["61"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -480,7 +479,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="housekeeping-ross-dsc.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/housekeeping-ross-dsc">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["62"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["62"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["62"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["62"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -513,7 +512,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="housekeeping-ross-hdc.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/housekeeping-ross-hdc">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["63"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["63"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["63"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["63"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -544,7 +543,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="housekeeping-indumaster-strong.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/housekeeping-indumaster-strong">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["64"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["64"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["64"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["64"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -611,7 +610,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="housekeeping-o-tens.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/housekeeping-o-tens">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["66"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["66"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["66"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["66"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -645,7 +644,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="housekeeping-metapol.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/housekeeping-metapol">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["67"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["67"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["67"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["67"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -681,7 +680,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="housekeeping-leather.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/housekeeping-leather">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["68"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["68"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["68"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["68"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -716,7 +715,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="housekeeping-ross-clarino.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/housekeeping-ross-clarino">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["69"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["69"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["69"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["69"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -746,7 +745,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<!-- <a href="housekeeping-ross-clarino.php" class="theme-btn btn-style-one">Know More</a>  -->
+<!-- <a href="/product/housekeeping-ross-clarino" class="theme-btn btn-style-one">Know More</a>  -->
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["199"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["199"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["199"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["199"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -778,7 +777,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<!-- <a href="housekeeping-ross-clarino.php" class="theme-btn btn-style-one">Know More</a>  -->
+<!-- <a href="/product/housekeeping-ross-clarino" class="theme-btn btn-style-one">Know More</a>  -->
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["200"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["200"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["200"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["200"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -808,8 +807,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script src="js/wow.js"></script>
 <script src="js/script.js"></script>
 <!--Google Map APi Key-->
-<script src="https://maps.google.com/maps/api/js?key=AIzaSyDTPlX-43R1TpcQUyWjFgiSfL_BiGxslZU"></script>
-<script src="js/map-script.js"></script>
 <script type="text/javascript">
 $(document).ready(function () {
         $('.products').addClass('current');

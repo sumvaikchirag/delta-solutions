@@ -17,22 +17,22 @@ $in_session = "0";
 <html>
 <head>
 <meta charset="utf-8"/>
-<title>Karcher Hot Water High Pressure - Electric Operated</title>
+<title>Karcher HDS-E 8/16-4 M 24 kW - Hot Water High Pressure - Electric Operated | Delta Solutions</title>
+<link rel="canonical" href="https://delta-solutions.in/product/hot-water-high-pressure-hds-e-8-16-4-m"/>
 <!-- Stylesheets -->
-<link href="css/bootstrap.css" rel="stylesheet"/>
-<link href="css/style.css" rel="stylesheet"/>
-<link href="css/responsive.css" rel="stylesheet"/>
+<link href="/css/bootstrap.css" rel="stylesheet"/>
+<link href="/css/style.css" rel="stylesheet"/>
+<link href="/css/responsive.css" rel="stylesheet"/>
 <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 <!--Favicon-->
-<link href="images/favicon.png" rel="shortcut icon" type="image/x-icon"/>
-<link href="images/favicon.png" rel="icon" type="image/x-icon"/>
-<link href="dist/drift-basic.css" rel="stylesheet"/>
+<link href="/images/favicon.png" rel="shortcut icon" type="image/x-icon"/>
+<link href="/images/favicon.png" rel="icon" type="image/x-icon"/>
+<link href="/dist/drift-basic.css" rel="stylesheet"/>
 <!-- Responsive -->
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/>
 <meta content="Ideal for commercial use, Karcher Hot Water High Pressure cleaner impresses with 24 kW heating output and high energy efficiency wherever exhaust gases are undesirable or not permitted." name="description"/>
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0WPY5YR5W4"></script>
 <script>
@@ -49,6 +49,85 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-K4ZLQJJ');</script>
 <!-- End Google Tag Manager -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Karcher HDS-E 8/16-4 M 24 kW - Hot Water High Pressure - Electric Operated",
+  "image": [
+    "https://delta-solutions.in/images/product-images/Cleaning%20Machines/Hot%20water%20high%20pressure/HDS-E-8_16-4-M-24-kW.png"
+  ],
+  "description": "The electrically heated HDS E 8/16-4 M hot water high-pressure cleaner impresses with 24 kW heating output and high energy efficiency wherever exhaust gases are undesirable or not permitted.",
+  "sku": "HDS-E 8/16-4 M 24 kW",
+  "mpn": "HDS-E 8/16-4 M 24 kW",
+  "brand": {
+    "@type": "Brand",
+    "name": "K\u00e4rcher"
+  },
+  "manufacturer": {
+    "@type": "Organization",
+    "name": "K\u00e4rcher"
+  },
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "flow rate",
+      "value": "300\u2013760 l/h"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Number of current phases Ph",
+      "value": "3"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Working pressure bar / MPa",
+      "value": "30\u2013160 / 3\u201316"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Frequency",
+      "value": "50 Hz"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Max. inlet temperature \u00b0C",
+      "value": "45 / 85"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Voltage",
+      "value": "400 V"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Connection load kW",
+      "value": "29.5"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Weight",
+      "value": "122.1 kg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Dimensions (L \u00d7 W \u00d7 H)",
+      "value": "1330 \u00d7 750 \u00d7 1060 mm"
+    }
+  ],
+  "offers": {
+    "@type": "Offer",
+    "url": "https://delta-solutions.in/product/hot-water-high-pressure-hds-e-8-16-4-m",
+    "itemCondition": "https://schema.org/NewCondition",
+    "availability": "https://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "Delta Solutions",
+      "url": "https://delta-solutions.in/"
+    }
+  }
+}
+</script>
 </head>
 <body>
 <!-- Google Tag Manager (noscript) -->
@@ -71,9 +150,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <section class="page-title" style="">
 <div class="auto-container">
 <ul class="page-breadcrumb">
-<li><a href="index.php">Home</a></li>
-<li><a href="cleaning-machines.php">Cleaning Machines</a></li>
-<li><a href="hot-water-high-pressure.php">Karcher Hot Water High Pressure</a></li>
+<li><a href="/index.php">Home</a></li>
+<li><a href="/cleaning-machines.php">Cleaning Machines</a></li>
+<li><a href="/hot-water-high-pressure.php">Karcher Hot Water High Pressure</a></li>
 <li>HDS-E 8/16-4 M 24 kW</li>
 </ul>
 </div>
@@ -85,25 +164,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="col-md-4">
 <div class="vertical-item">
 <div class="item-media detail">
-<a data-fancybox="gallery" href="images/product-images/Cleaning Machines/Hot water high pressure/HDS-E-8_16-4-M-24-kW.png">
-<img alt="Hds E 8 16 4 M 24 K W - Hot Water High Pressure | Delta Solutions" class="drift-demo-trigger" data-zoom="images/product-images/Cleaning Machines/Hot water high pressure/HDS-E-8_16-4-M-24-kW-large.jpg" src="images/product-images/Cleaning Machines/Hot water high pressure/HDS-E-8_16-4-M-24-kW.png"/>
+<a data-fancybox="gallery" href="/images/product-images/Cleaning Machines/Hot water high pressure/HDS-E-8_16-4-M-24-kW.png">
+<img alt="Hds E 8 16 4 M 24 K W - Hot Water High Pressure | Delta Solutions" class="drift-demo-trigger" data-zoom="/images/product-images/Cleaning Machines/Hot water high pressure/HDS-E-8_16-4-M-24-kW-large.jpg" src="/images/product-images/Cleaning Machines/Hot water high pressure/HDS-E-8_16-4-M-24-kW.png"/>
 </a>
 </div><br/>
 <div align="center">
-<a class="theme-btn btn-style-one" href="images/pdf/Cleaning Machines/Hot water high pressure/HDS-E-8-16-4-M-24kW.pdf" target="blank">Download Data Sheet</a>
+<a class="theme-btn btn-style-one" href="/images/pdf/Cleaning Machines/Hot water high pressure/HDS-E-8-16-4-M-24kW.pdf" target="blank">Download Data Sheet</a>
 </div><br/>
 </div>
 </div>
 <div class="col-md-8">
 <div class="vertical-item">
 <div class="item-content">
-<h4><span>Karcher Hot Water High Pressure - Electric Operated</span>
+<h1 class="product-title"><span>Karcher Hot Water High Pressure - Electric Operated</span>
 <p class="quote-btn">
-<button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["29"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["29"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
-<button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["29"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
+<button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["29"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["29"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="/images/add-to-cart.png" alt="Add to enquiry basket"></button>
+<button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["29"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="/images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["29"]["code"]; ?>" name="quantity" value="1" size="2" />
                                 <input type="hidden" id="remark_<?php echo $productArray["29"]["code"]; ?>" name="remark" value="" />
-                            </p></h4>
+                            </p></h1>
 <h5>(HDS-E 8/16-4 M 24 kW)</h5><br/>
 <ul class="nav nav-tabs">
 <li class="active"><a data-toggle="tab" href="#one">Details</a></li>
@@ -154,26 +233,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!--End pagewrapper-->
 <!--Scroll to top-->
 <div class="scroll-to-top scroll-to-target" data-target="html"><span class="icon fa fa-arrow-up"></span></div>
-<script src="js/jquery.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/jquery-ui.js"></script>
-<script src="js/jquery.fancybox.js"></script>
-<script src="js/slick.min.js"></script>
-<script src="js/mixitup.js"></script>
-<script src="js/owl.js"></script>
-<script src="js/appear.js"></script>
-<script src="js/validate.js"></script>
-<script src="js/wow.js"></script>
-<script src="js/script.js"></script>
+<script src="/js/jquery.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+<script src="/js/jquery-ui.js"></script>
+<script src="/js/jquery.fancybox.js"></script>
+<script src="/js/slick.min.js"></script>
+<script src="/js/mixitup.js"></script>
+<script src="/js/owl.js"></script>
+<script src="/js/appear.js"></script>
+<script src="/js/validate.js"></script>
+<script src="/js/wow.js"></script>
+<script src="/js/script.js"></script>
 <!--Google Map APi Key-->
-<script src="http://maps.google.com/maps/api/js?key=AIzaSyDTPlX-43R1TpcQUyWjFgiSfL_BiGxslZU"></script>
-<script src="js/map-script.js"></script>
 <script type="text/javascript">
 $(document).ready(function () {
         $('.products').addClass('current');
     });
 </script>
-<script src="dist/Drift.js"></script>
+<script src="/dist/Drift.js"></script>
 <script>
 var driftAll = document.querySelectorAll('.drift-demo-trigger');
 var pane = document.querySelector('.detail');

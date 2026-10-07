@@ -1,0 +1,90 @@
+/* Homepage "Explore Our Collections" section */
+.dl-collections{padding:80px 0;background:#f4f4f4;font-family:"Roboto",sans-serif}
+
+.dl-col-head{max-width:700px;margin:0 auto 40px;text-align:center}
+.dl-col-eyebrow{margin:0 0 8px;color:#ed3237;font-size:13px;font-weight:700;letter-spacing:.15em;text-transform:uppercase}
+.dl-collections .dl-col-head h2{margin:0 0 12px;color:#303030;font-size:36px;font-weight:700;line-height:1.2;text-transform:none}
+.dl-col-sub{margin:0;color:#666;font-size:16px;line-height:1.6}
+
+.dl-col-wrap{display:grid;grid-template-columns:280px minmax(0,1fr);gap:30px;align-items:start}
+
+.dl-col-nav{border:1px solid #e5e5e5;border-radius:6px;background:#fff;overflow:hidden}
+.dl-collections .dl-col-tab{display:flex;align-items:center;justify-content:space-between;gap:12px;width:100%;margin:0;padding:16px 20px;border:0;border-bottom:1px solid #eee;border-radius:0;background:#fff;color:#303030;font:700 14px/1.3 "Roboto",sans-serif;letter-spacing:.04em;text-align:left;text-transform:uppercase;cursor:pointer;transition:background-color .2s,color .2s}
+.dl-collections .dl-col-tab:last-child{border-bottom:0}
+.dl-collections .dl-col-tab:hover{color:#ed3237}
+.dl-collections .dl-col-tab.is-active{background:#ed3237;color:#fff}
+.dl-collections .dl-col-tab:focus-visible{outline:2px solid #303030;outline-offset:-2px}
+.dl-col-count{flex:none;color:#999;font-size:13px;letter-spacing:0}
+.dl-col-tab.is-active .dl-col-count{color:#fff}
+
+.dl-col-panel[hidden]{display:none}
+
+.dl-col-panel-head{display:flex;align-items:center;justify-content:space-between;gap:16px;margin-bottom:20px}
+.dl-collections .dl-col-panel-head h3{margin:0 0 4px;color:#303030;font-size:24px;font-weight:700;line-height:1.25}
+.dl-col-panel-head p{margin:0;color:#777;font-size:15px;line-height:1.5}
+.dl-collections .dl-col-all{flex:none;padding:10px 22px;border-radius:4px;background:#303030;color:#fff;font-size:14px;font-weight:700;text-decoration:none;transition:background-color .2s}
+.dl-collections .dl-col-all:hover,.dl-collections .dl-col-all:focus-visible{background:#ed3237;color:#fff}
+
+.dl-col-scroll{max-height:560px;padding-right:10px;overflow-y:auto;scrollbar-width:thin;scrollbar-color:#bbb #e9e9e9}
+.dl-col-scroll::-webkit-scrollbar{width:6px}
+.dl-col-scroll::-webkit-scrollbar-track{background:#e9e9e9}
+.dl-col-scroll::-webkit-scrollbar-thumb{background:#bbb}
+
+.dl-col-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px}
+.dl-collections .dl-col-card{display:flex;flex-direction:column;border:1px solid #e5e5e5;border-radius:6px;background:#fff;text-decoration:none;transition:border-color .2s}
+.dl-collections .dl-col-card:hover{border-color:#ed3237}
+.dl-collections .dl-col-card:focus-visible{outline:2px solid #ed3237;outline-offset:2px}
+.dl-col-img{display:flex;align-items:center;justify-content:center;height:190px;padding:18px}
+.dl-col-img img{max-width:100%;max-height:100%;width:auto;height:auto;object-fit:contain}
+.dl-col-body{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-top:auto;padding:14px 16px;border-top:1px solid #eee}
+.dl-col-title{color:#303030;font-size:14px;font-weight:700;letter-spacing:.03em;line-height:1.35;text-transform:uppercase}
+.dl-col-card:hover .dl-col-title{color:#ed3237}
+.dl-col-arrow{flex:none;color:#ed3237;font-size:16px}
+
+/* "All Collections" page (/collections) */
+.dl-all{padding-top:60px}
+.dl-collections .dl-col-head h1{margin:0 0 12px;color:#303030;font-size:36px;font-weight:700;line-height:1.2;text-transform:none}
+.dl-all-nav{display:flex;flex-wrap:wrap;justify-content:center;gap:10px;margin:0 0 50px}
+.dl-collections .dl-all-jump{padding:10px 16px;border:1px solid #ddd;border-radius:4px;background:#fff;color:#303030;font-size:13px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;text-decoration:none;transition:border-color .2s,color .2s}
+.dl-collections .dl-all-jump:hover,.dl-collections .dl-all-jump:focus-visible{border-color:#ed3237;color:#ed3237}
+.dl-all-jump span{margin-left:6px;color:#999}
+.dl-all-group{margin-bottom:56px;scroll-margin-top:120px}
+.dl-all-group:last-child{margin-bottom:0}
+.dl-all-group .dl-col-panel-head{padding-bottom:16px;border-bottom:2px solid #e5e5e5}
+.dl-collections .dl-all-group .dl-col-panel-head h2{margin:0 0 4px;color:#303030;font-size:26px;font-weight:700;line-height:1.25;text-transform:none}
+.dl-all-group:target .dl-col-panel-head{border-bottom-color:#ed3237}
+.dl-all .dl-col-grid{grid-template-columns:repeat(4,minmax(0,1fr))}
+
+@media (max-width:1199px){
+  .dl-col-wrap{grid-template-columns:240px minmax(0,1fr)}
+  .dl-col-grid,.dl-all .dl-col-grid{grid-template-columns:repeat(3,minmax(0,1fr))}
+  .dl-col-wrap .dl-col-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media (max-width:767px){
+  .dl-all .dl-col-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .dl-all-nav{flex-wrap:nowrap;justify-content:flex-start;overflow-x:auto;scrollbar-width:none;margin-bottom:36px}
+  .dl-all-nav::-webkit-scrollbar{display:none}
+  .dl-collections .dl-all-jump{flex:none;white-space:nowrap}
+}
+@media (max-width:991px){
+  .dl-collections{padding:60px 0}
+  .dl-col-wrap{grid-template-columns:minmax(0,1fr);gap:20px}
+  .dl-col-nav{display:flex;gap:8px;border:0;border-radius:0;background:transparent;overflow-x:auto;scrollbar-width:none}
+  .dl-col-nav::-webkit-scrollbar{display:none}
+  .dl-collections .dl-col-tab,.dl-collections .dl-col-tab:last-child{flex:none;width:auto;padding:10px 16px;border:1px solid #ddd;border-radius:4px;white-space:nowrap;font-size:13px}
+  .dl-collections .dl-col-tab.is-active{border-color:#ed3237}
+  .dl-col-scroll{max-height:none;padding:0;overflow:visible}
+}
+@media (max-width:575px){
+  .dl-collections{padding:50px 0}
+  .dl-collections .dl-col-head h2,.dl-collections .dl-col-head h1{font-size:28px}
+  .dl-collections .dl-all-group .dl-col-panel-head h2{font-size:22px}
+  .dl-col-sub{font-size:15px}
+  .dl-col-panel-head{flex-direction:column;align-items:flex-start;gap:12px}
+  .dl-collections .dl-col-panel-head h3{font-size:22px}
+  .dl-col-grid{gap:12px}
+  .dl-col-img{height:130px;padding:12px}
+  .dl-col-body{padding:10px 12px}
+  .dl-col-title{font-size:12px}
+  .dl-col-arrow{display:none}
+}

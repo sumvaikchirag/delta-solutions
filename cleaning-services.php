@@ -30,7 +30,6 @@ $productArray = $product->getAllProduct();
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/>
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0WPY5YR5W4"></script>
 <script>
@@ -138,7 +137,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="auto-container">
 <div class="sec-title text-center">
 <img alt="Wow | Delta Solutions" height="50px;" src="images/wow.jpg"/>
-<!-- <h2> <span>WOW</span> Clean</h2> -->
+<h1>Carpet &amp; Upholstery Cleaning Services</h1>
 </div>
 <!-- <div class="detail"></div> -->
 <div class="row">

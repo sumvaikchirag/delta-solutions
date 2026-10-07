@@ -31,7 +31,6 @@ $in_session = "0";
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/>
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <meta content="Delta Solutions offers Karcher scrubber driers - ride on &amp; walk-behind scrubber driers, with advanced technology for efficient &amp; durable industrial cleaning" name="description"/>
 <meta content="karcher scrubber drier, walk behind scrubber drier, ride on scrubber drier" name="keywords"/>
@@ -86,43 +85,43 @@ $in_session = "0";
           "@type": "ListItem",
           "position": 1,
           "name": "Karcher Scrubber Drier - Compact (BR 30/4 C)",
-          "url": "https://delta-solutions.in/scrubber-drier-br-30-4-c.php"
+          "url": "https://delta-solutions.in/product/scrubber-drier-br-30-4-c"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Karcher Scrubber Drier - Walk Behind (Electric) (BD 43/40 C Ep IN)",
-          "url": "https://delta-solutions.in/scrubber-drier-bd-43-40-c-ep.php"
+          "url": "https://delta-solutions.in/product/scrubber-drier-bd-43-40-c-ep"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Karcher Scrubber Drier - Walk Behind (Battery) (BD 50/50 Bp Classic)",
-          "url": "https://delta-solutions.in/scrubber-drier-bd-50-50-bp.php"
+          "url": "https://delta-solutions.in/product/scrubber-drier-bd-50-50-bp"
         },
         {
           "@type": "ListItem",
           "position": 4,
           "name": "Karcher Scrubber Drier - Walk Behind (Electric) (BD 50/60 Ep Classic)",
-          "url": "https://delta-solutions.in/scrubber-drier-bd-50-60-ep.php"
+          "url": "https://delta-solutions.in/product/scrubber-drier-bd-50-60-ep"
         },
         {
           "@type": "ListItem",
           "position": 5,
           "name": "Karcher Scrubber Drier - Ride on (BD 50/70 R Classic Bp)",
-          "url": "https://delta-solutions.in/scrubber-drier-bd-50-70-r-bp.php"
+          "url": "https://delta-solutions.in/product/scrubber-drier-bd-50-70-r-bp"
         },
         {
           "@type": "ListItem",
           "position": 6,
           "name": "Karcher Scrubber Drier - Ride on (B 90 R Classic Bp)",
-          "url": "https://delta-solutions.in/scrubber-drier-b-90-r-bp.php"
+          "url": "https://delta-solutions.in/product/scrubber-drier-b-90-r-bp"
         },
         {
           "@type": "ListItem",
           "position": 7,
           "name": "Karcher Scrubber Drier - Ride on (BD 90/160 R Classic Bp)",
-          "url": "https://delta-solutions.in/scrubber-drier-bd-90-160-r-bp.php"
+          "url": "https://delta-solutions.in/product/scrubber-drier-bd-90-160-r-bp"
         }
       ]
     },
@@ -289,7 +288,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row clearfix">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
 <div class="image-box">
-<a href="scrubber-drier-br-30-4-c.php">
+<a href="/product/scrubber-drier-br-30-4-c">
 <img alt="Br 30 4 - Scrubber Drier | Delta Solutions" class="drift-demo-trigger" src="images/product-images/Cleaning Machines/Scrubber Drier/BR-30_4.png"/>
 </a>
 </div>
@@ -318,7 +317,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="scrubber-drier-br-30-4-c.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/scrubber-drier-br-30-4-c">Know More</a>
 <!-- <a href="contact.php" class="theme-btn btn-style-one">Request A Quote</a> -->
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["31"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["31"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["31"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
@@ -333,7 +332,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row clearfix">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
 <div class="image-box">
-<a href="scrubber-drier-bd-43-40-c-ep.php">
+<a href="/product/scrubber-drier-bd-43-40-c-ep">
 <img alt="Bd 43 40 C Ep - Scrubber Drier | Delta Solutions" class="drift-demo-trigger" src="images/product-images/Cleaning Machines/Scrubber Drier/BD-43_40-C-Ep.png"/></a>
 </div>
 </div>
@@ -359,7 +358,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="scrubber-drier-bd-43-40-c-ep.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/scrubber-drier-bd-43-40-c-ep">Know More</a>
 <!-- <a href="contact.php" class="theme-btn btn-style-one">Request A Quote</a> -->
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["32"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["32"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["32"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
@@ -374,7 +373,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row clearfix">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
 <div class="image-box">
-<a href="scrubber-drier-bd-50-50-bp.php">
+<a href="/product/scrubber-drier-bd-50-50-bp">
 <img alt="Bd 50 50 Bp Classic - Scrubber Drier | Delta Solutions" class="drift-demo-trigger" src="images/product-images/Cleaning Machines/Scrubber Drier/BD-50_50-Bp-Classic.png"/></a>
 </div>
 </div>
@@ -399,7 +398,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="scrubber-drier-bd-50-50-bp.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/scrubber-drier-bd-50-50-bp">Know More</a>
 <!-- <a href="contact.php" class="theme-btn btn-style-one">Request A Quote</a> -->
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["33"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["33"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["33"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
@@ -414,7 +413,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row clearfix">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
 <div class="image-box">
-<a href="scrubber-drier-bd-50-60-ep.php">
+<a href="/product/scrubber-drier-bd-50-60-ep">
 <img alt="Bd 50 60 Ep - Scrubber Drier | Delta Solutions" class="drift-demo-trigger" src="images/product-images/Cleaning Machines/Scrubber Drier/BD-50_60-Ep.png"/></a>
 </div>
 </div>
@@ -440,7 +439,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="scrubber-drier-bd-50-60-ep.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/scrubber-drier-bd-50-60-ep">Know More</a>
 <!-- <a href="contact.php" class="theme-btn btn-style-one">Request A Quote</a> -->
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["34"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["34"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["34"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
@@ -455,7 +454,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row clearfix">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
 <div class="image-box">
-<a href="scrubber-drier-bd-50-70-r-bp.php">
+<a href="/product/scrubber-drier-bd-50-70-r-bp">
 <img alt="50 70 R Classic - Scrubber Drier | Delta Solutions" class="drift-demo-trigger" src="images/product-images/Cleaning Machines/Scrubber Drier/50_70-R-Classic.png"/></a>
 </div>
 </div>
@@ -476,7 +475,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="scrubber-drier-bd-50-70-r-bp.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/scrubber-drier-bd-50-70-r-bp">Know More</a>
 <!-- <a href="contact.php" class="theme-btn btn-style-one">Request A Quote</a> -->
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["35"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["35"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["35"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
@@ -512,7 +511,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="scrubber-drier-b-90-r-bp.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/scrubber-drier-b-90-r-bp">Know More</a>
 <!-- <a href="contact.php" class="theme-btn btn-style-one">Request A Quote</a> -->
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["36"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["36"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["36"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
@@ -527,7 +526,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row clearfix">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
 <div class="image-box">
-<a href="scrubber-drier-bd-90-160-r-bp.php">
+<a href="/product/scrubber-drier-bd-90-160-r-bp">
 <img alt="Bd 90 160 R Classic Bp - Scrubber Drier | Delta Solutions" class="drift-demo-trigger" src="images/product-images/Cleaning Machines/Scrubber Drier/BD-90_160-R-Classic-Bp.png"/></a>
 </div>
 </div>
@@ -552,7 +551,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="scrubber-drier-bd-90-160-r-bp.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/scrubber-drier-bd-90-160-r-bp">Know More</a>
 <!-- <a href="contact.php" class="theme-btn btn-style-one">Request A Quote</a> -->
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["37"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["37"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["37"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
@@ -690,8 +689,6 @@ for (i = 0; i < acc.length; i++) {
 <script src="js/wow.js"></script>
 <script src="js/script.js"></script>
 <!--Google Map APi Key-->
-<script src="https://maps.google.com/maps/api/js?key=AIzaSyDTPlX-43R1TpcQUyWjFgiSfL_BiGxslZU"></script>
-<script src="js/map-script.js"></script>
 <script type="text/javascript">
 $(document).ready(function () {
         $('.products').addClass('current');

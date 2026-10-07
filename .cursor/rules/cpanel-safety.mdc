@@ -1,0 +1,26 @@
+---
+description: Safety rules for the live cPanel server behind delta-solutions.in
+alwaysApply: true
+---
+
+# Live cPanel server safety
+
+This folder mirrors `public_html` on the live cPanel server for delta-solutions.in over FTP. cPanel is the source of truth; GitHub is only a backup copy.
+
+## Never without explicit permission in the current message
+- Delete any file or folder on cPanel.
+- Overwrite a file on cPanel. Ask first, name the exact files, and wait for a yes.
+- Touch the other sites or folders on the server: `bhotikagroup.co.in`, `magia.co.in`, `tbsonline.in`, `crm.delta-solutions.in`, `delta-solutions.in/`, `deltasolutions/`, `cgi-bin/`, `.well-known/`.
+
+## Comparing with cPanel is read-only
+- Comparing only lists files and sizes; it never changes the server.
+- When pulling changed files from cPanel into this folder, never let anything upload while the download runs.
+- Report what differs, then ask before pulling or pushing anything.
+
+## Uploading (only after the user approves)
+- Upload one named file at a time and confirm the server size matches the local size afterwards.
+- Never upload an empty (0-byte) file.
+- The SFTP extension's watcher `autoUpload` must stay `false` in `.vscode/sftp.json`. A half-written download was once auto-uploaded and wiped `contact.php` and `footer.php` on the live site.
+
+## Known state
+- The hosting account has run out of disk space before; writes then fail with `451 Error during write to file`. Report this; do not delete files to make room unless the user explicitly asks.

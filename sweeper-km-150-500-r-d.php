@@ -17,21 +17,21 @@ $in_session = "0";
 <html>
 <head>
 <meta charset="utf-8"/>
-<title>Karcher Sweeper - Ride On | Heavy Duty</title>
+<title>Karcher KM 150/500 R D Classic - Sweeper - Ride On | Heavy Duty | Delta Solutions</title>
+<link rel="canonical" href="https://delta-solutions.in/product/sweeper-km-150-500-r-d"/>
 <!-- Stylesheets -->
-<link href="css/bootstrap.css" rel="stylesheet"/>
-<link href="css/style.css" rel="stylesheet"/>
-<link href="css/responsive.css" rel="stylesheet"/>
+<link href="/css/bootstrap.css" rel="stylesheet"/>
+<link href="/css/style.css" rel="stylesheet"/>
+<link href="/css/responsive.css" rel="stylesheet"/>
 <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 <!--Favicon-->
-<link href="images/favicon.png" rel="shortcut icon" type="image/x-icon"/>
-<link href="images/favicon.png" rel="icon" type="image/x-icon"/>
+<link href="/images/favicon.png" rel="shortcut icon" type="image/x-icon"/>
+<link href="/images/favicon.png" rel="icon" type="image/x-icon"/>
 <!-- Responsive -->
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/>
 <meta content="This Karcher Sweeper is a durable industrial sweeper. Robust, easy to use &amp; manoeuvre and allows longer work intervals." name="description"/>
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0WPY5YR5W4"></script>
 <script>
@@ -48,6 +48,105 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-K4ZLQJJ');</script>
 <!-- End Google Tag Manager -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Karcher KM 150/500 R D Classic - Sweeper - Ride On | Heavy Duty",
+  "image": [
+    "https://delta-solutions.in/images/product-images/Cleaning%20Machines/Sweeper/KM-150_500-R-D.png"
+  ],
+  "description": "KM 150/500 R Classic is a durable industrial sweeper. With pocket filter, large sweeping container, robust steel chassis, easy lever operation, hydraulic rear-wheel drive and Flexible Footprint System.",
+  "sku": "KM 150/500 R D Classic",
+  "mpn": "KM 150/500 R D Classic",
+  "brand": {
+    "@type": "Brand",
+    "name": "K\u00e4rcher"
+  },
+  "manufacturer": {
+    "@type": "Organization",
+    "name": "K\u00e4rcher"
+  },
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Drive",
+      "value": "Diesel"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Power",
+      "value": "18.6 in kW"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Area performance",
+      "value": "18,000 / 21,600 theoretical in m2/h"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Sweeping width",
+      "value": "1200 mm"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Sweeping width 1 SB",
+      "value": "1500 in mm"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Sweeping width 2 SB",
+      "value": "1800 in mm"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Waste container",
+      "value": "500 l"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Filter area",
+      "value": "10,5 m2"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Max. unloading height",
+      "value": "1520 in mm"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Max. gradient",
+      "value": "18 in %"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Travel speed",
+      "value": "12 km/h"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Weight",
+      "value": "1400 kg"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Dimensions (L \u00d7 W \u00d7 H)",
+      "value": "2,442 x 1,570 x 1,640 mm"
+    }
+  ],
+  "offers": {
+    "@type": "Offer",
+    "url": "https://delta-solutions.in/product/sweeper-km-150-500-r-d",
+    "itemCondition": "https://schema.org/NewCondition",
+    "availability": "https://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "Delta Solutions",
+      "url": "https://delta-solutions.in/"
+    }
+  }
+}
+</script>
 </head>
 <body>
 <!-- Google Tag Manager (noscript) -->
@@ -70,9 +169,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <section class="page-title" style="">
 <div class="auto-container">
 <ul class="page-breadcrumb">
-<li><a href="index.php">Home</a></li>
-<li><a href="cleaning-machines.php">Cleaning Machines</a></li>
-<li><a href="sweeper.php">Karcher Sweeper</a></li>
+<li><a href="/index.php">Home</a></li>
+<li><a href="/cleaning-machines.php">Cleaning Machines</a></li>
+<li><a href="/sweeper.php">Karcher Sweeper</a></li>
 <li>KM 150/500 R D Classic</li>
 </ul>
 </div>
@@ -84,20 +183,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="col-md-4">
 <div class="vertical-item">
 <div class="item-media">
-<a data-fancybox="gallery" href="images/product-images/Cleaning Machines/Sweeper/KM-150_500-R-D.png"><img alt="Km 150 500 R D - Sweeper | Delta Solutions" src="images/product-images/Cleaning Machines/Sweeper/KM-150_500-R-D.png"/> </a></div>
-<div align="center"><a class="theme-btn btn-style-one" href="images/pdf/Cleaning Machines/Sweeper/KM 150_500 R D Classic.pdf" target="blank">Download Data Sheet</a></div>
+<a data-fancybox="gallery" href="/images/product-images/Cleaning Machines/Sweeper/KM-150_500-R-D.png"><img alt="Km 150 500 R D - Sweeper | Delta Solutions" src="/images/product-images/Cleaning Machines/Sweeper/KM-150_500-R-D.png"/> </a></div>
+<div align="center"><a class="theme-btn btn-style-one" href="/images/pdf/Cleaning Machines/Sweeper/KM 150_500 R D Classic.pdf" target="blank">Download Data Sheet</a></div>
 </div>
 </div>
 <div class="col-md-8">
 <div class="vertical-item">
 <div class="item-content">
-<h4><span>Karcher Sweeper - Ride On | Heavy Duty</span>
+<h1 class="product-title"><span>Karcher Sweeper - Ride On | Heavy Duty</span>
 <p class="quote-btn">
-<button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["41"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["41"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
-<button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["41"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
+<button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["41"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["41"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="/images/add-to-cart.png" alt="Add to enquiry basket"></button>
+<button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["41"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="/images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["41"]["code"]; ?>" name="quantity" value="1" size="2" />
                                 <input type="hidden" id="remark_<?php echo $productArray["41"]["code"]; ?>" name="remark" value="" />
-                            </p></h4>
+                            </p></h1>
 <h5>(KM 150/500 R D Classic)</h5><br/>
 <ul class="nav nav-tabs">
 <li class="active"><a data-toggle="tab" href="#one">Details</a></li>
@@ -146,20 +245,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!--End pagewrapper-->
 <!--Scroll to top-->
 <div class="scroll-to-top scroll-to-target" data-target="html"><span class="icon fa fa-arrow-up"></span></div>
-<script src="js/jquery.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/jquery-ui.js"></script>
-<script src="js/jquery.fancybox.js"></script>
-<script src="js/slick.min.js"></script>
-<script src="js/mixitup.js"></script>
-<script src="js/owl.js"></script>
-<script src="js/appear.js"></script>
-<script src="js/validate.js"></script>
-<script src="js/wow.js"></script>
-<script src="js/script.js"></script>
+<script src="/js/jquery.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+<script src="/js/jquery-ui.js"></script>
+<script src="/js/jquery.fancybox.js"></script>
+<script src="/js/slick.min.js"></script>
+<script src="/js/mixitup.js"></script>
+<script src="/js/owl.js"></script>
+<script src="/js/appear.js"></script>
+<script src="/js/validate.js"></script>
+<script src="/js/wow.js"></script>
+<script src="/js/script.js"></script>
 <!--Google Map APi Key-->
-<script src="http://maps.google.com/maps/api/js?key=AIzaSyDTPlX-43R1TpcQUyWjFgiSfL_BiGxslZU"></script>
-<script src="js/map-script.js"></script>
 <script type="text/javascript">
 $(document).ready(function () {
         $('.products').addClass('current');

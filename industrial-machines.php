@@ -42,7 +42,6 @@ $in_session = "0";
 <meta content="https://delta-solutions.in/industrial-machines" property="og:url"/>
 <meta content="https://delta-solutions.in/images/product-images/Cleaning%20Machines/Industrial/IB-7_40-Classic.png" property="og:image"/>
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <meta content="Get Karcher Industrial Machines at best price. Click to learn more." name="description"/>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0WPY5YR5W4"></script>
@@ -100,13 +99,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           "@type": "ListItem",
           "position": 1,
           "name": "Karcher Dry Ice Blaster (IB 7/40 Classic)",
-          "url": "https://delta-solutions.in/industrial-machines-ib-7-40-c.php"
+          "url": "https://delta-solutions.in/product/industrial-machines-ib-7-40-c"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Karcher Parts Cleaner (PC 100 M2 Bio)",
-          "url": "https://delta-solutions.in/industrial-machines-pc-100-m2-b.php"
+          "url": "https://delta-solutions.in/product/industrial-machines-pc-100-m2-b"
         }
       ]
     },
@@ -176,7 +175,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row clearfix">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
 <div class="image-box">
-<a href="industrial-machines-ib-7-40-c.php">
+<a href="/product/industrial-machines-ib-7-40-c">
 <img alt="Ib 7 40 Classic - Industrial | Delta Solutions" src="images/product-images/Cleaning Machines/Industrial/IB-7_40-Classic.png"/></a>
 </div>
 </div>
@@ -207,7 +206,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="industrial-machines-ib-7-40-c.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/industrial-machines-ib-7-40-c">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["50"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["50"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["50"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["50"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -221,7 +220,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row clearfix">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
 <div class="image-box">
-<a href="industrial-machines-pc-100-m2-b.php">
+<a href="/product/industrial-machines-pc-100-m2-b">
 <img alt="Pc 100 M2 Bio - Industrial | Delta Solutions" src="images/product-images/Cleaning Machines/Industrial/PC-100-M2-Bio.png"/></a>
 </div>
 </div>
@@ -252,7 +251,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="industrial-machines-pc-100-m2-b.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/industrial-machines-pc-100-m2-b">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["51"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["51"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["51"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["51"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -282,8 +281,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script src="js/wow.js"></script>
 <script src="js/script.js"></script>
 <!--Google Map APi Key-->
-<script src="https://maps.google.com/maps/api/js?key=AIzaSyDTPlX-43R1TpcQUyWjFgiSfL_BiGxslZU"></script>
-<script src="js/map-script.js"></script>
 <script type="text/javascript">
 $(document).ready(function () {
         $('.products').addClass('current');

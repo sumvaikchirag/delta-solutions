@@ -185,7 +185,6 @@ $dl_products = array(
 <meta content="Entrance matting systems engineered for India's busiest buildings - from the first scrape outside to the final polished step within." property="og:description"/>
 <meta content="https://delta-solutions.in/images/product-images/Entrance%20Matting/Nova%20Aluminium/nova-aluminium.jpg" property="og:image"/>
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0WPY5YR5W4"></script>
 <script>

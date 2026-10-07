@@ -31,7 +31,6 @@ $in_session = "0";
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/>
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <meta content="Buy Karcher steam cleaner equipment from Delta Solutions. Powerful, efficient, and eco-friendly cleaning machines for industrial and home use. Enquire now!" name="description"/>
 <meta content="karcher steam cleaner, steam cleaner machine" name="keywords"/>
@@ -86,19 +85,19 @@ $in_session = "0";
           "@type": "ListItem",
           "position": 1,
           "name": "Karcher Steam Cleaner (SG 4/4)",
-          "url": "https://delta-solutions.in/steam-cleaner-sg-4-4.php"
+          "url": "https://delta-solutions.in/product/steam-cleaner-sg-4-4"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Karcher Steam Vacuum (SGV 6/5)",
-          "url": "https://delta-solutions.in/steam-cleaner-sgv-6-5.php"
+          "url": "https://delta-solutions.in/product/steam-cleaner-sgv-6-5"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Karcher Steam Vacuum (SGV 8/5)",
-          "url": "https://delta-solutions.in/steam-cleaner-sgv-8-5.php"
+          "url": "https://delta-solutions.in/product/steam-cleaner-sgv-8-5"
         }
       ]
     },
@@ -232,7 +231,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row clearfix">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
 <div class="image-box">
-<a href="steam-cleaner-sg-4-4.php">
+<a href="/product/steam-cleaner-sg-4-4">
 <img alt="Sg 4 4 - Steam Cleaner | Delta Solutions" src="images/product-images/Cleaning Machines/Steam Cleaner/SG-4_4.png"/></a>
 </div>
 </div>
@@ -254,7 +253,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="steam-cleaner-sg-4-4.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/steam-cleaner-sg-4-4">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["42"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["42"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["42"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["42"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -268,7 +267,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row clearfix">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
 <div class="image-box">
-<a href="steam-cleaner-sgv-6-5.php">
+<a href="/product/steam-cleaner-sgv-6-5">
 <img alt="Sgv 6 5 - Steam Cleaner | Delta Solutions" src="images/product-images/Cleaning Machines/Steam Cleaner/SGV-6_5.png"/></a>
 </div>
 </div>
@@ -290,7 +289,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="steam-cleaner-sgv-6-5.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/steam-cleaner-sgv-6-5">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["43"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["43"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["43"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["43"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -304,7 +303,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row clearfix">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
 <div class="image-box">
-<a href="steam-cleaner-sgv-8-5.php">
+<a href="/product/steam-cleaner-sgv-8-5">
 <img alt="Sgv 8 5 - Steam Cleaner | Delta Solutions" src="images/product-images/Cleaning Machines/Steam Cleaner/SGV-8_5.jpg"/></a>
 </div>
 </div>
@@ -327,7 +326,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="steam-cleaner-sgv-8-5.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/steam-cleaner-sgv-8-5">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["44"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["44"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["44"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["44"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -588,8 +587,6 @@ for (i = 0; i < acc.length; i++) {
 <script src="js/wow.js"></script>
 <script src="js/script.js"></script>
 <!--Google Map APi Key-->
-<script src="https://maps.google.com/maps/api/js?key=AIzaSyDTPlX-43R1TpcQUyWjFgiSfL_BiGxslZU"></script>
-<script src="js/map-script.js"></script>
 <script type="text/javascript">
 $(document).ready(function () {
         $('.products').addClass('current');

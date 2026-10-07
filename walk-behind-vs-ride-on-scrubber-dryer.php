@@ -20,18 +20,18 @@ $excerpt = 'Confused between a Walk Behind Scrubber Dryer and a Ride-On Scrubber
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
 <!--Favicon-->
-<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
-<link rel="icon" href="images/favicon.png" type="image/x-icon">
+<link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon">
+<link rel="icon" href="/images/favicon.png" type="image/x-icon">
 
 <!--Canonical & HrefLang-->
-<link rel="canonical" href="https://delta-solutions.in/walk-behind-vs-ride-on-scrubber-dryer" />
-<link rel="alternate" href="https://delta-solutions.in/walk-behind-vs-ride-on-scrubber-dryer" hreflang="x-default">
-<link rel="alternate" href="https://delta-solutions.in/walk-behind-vs-ride-on-scrubber-dryer" hreflang="en-IN">
+<link rel="canonical" href="https://delta-solutions.in/blog/walk-behind-vs-ride-on-scrubber-dryer" />
+<link rel="alternate" href="https://delta-solutions.in/blog/walk-behind-vs-ride-on-scrubber-dryer" hreflang="x-default">
+<link rel="alternate" href="https://delta-solutions.in/blog/walk-behind-vs-ride-on-scrubber-dryer" hreflang="en-IN">
 
 <!--OG Tags-->
   <meta property="og:title" content="Walk Behind vs Ride-On Scrubber Dryer | Delta Solutions">
   <meta property="og:site_name" content="Delta Solutions">
-  <meta property="og:url" content="https://delta-solutions.in/walk-behind-vs-ride-on-scrubber-dryer">
+  <meta property="og:url" content="https://delta-solutions.in/blog/walk-behind-vs-ride-on-scrubber-dryer">
   <meta property="og:description" content="Compare Walk Behind and Ride-On Scrubber Dryers to choose the right industrial floor cleaning machine for your facility. Expert guide by Delta Solutions.">
   <meta property="og:type" content="website">
   <meta property="og:image" content="https://delta-solutions.in/walk-behind-vs-ride-on-scrubber-dryer.webp">
@@ -44,9 +44,9 @@ $excerpt = 'Confused between a Walk Behind Scrubber Dryer and a Ride-On Scrubber
   
 
 <!-- Stylesheets -->
-<link href="css/bootstrap.css" rel="stylesheet">
-<link href="css/style.css" rel="stylesheet">
-<link href="css/responsive.css" rel="stylesheet">
+<link href="/css/bootstrap.css" rel="stylesheet">
+<link href="/css/style.css" rel="stylesheet">
+<link href="/css/responsive.css" rel="stylesheet">
 
 <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 
@@ -80,7 +80,7 @@ $excerpt = 'Confused between a Walk Behind Scrubber Dryer and a Ride-On Scrubber
   "dateModified": "2026-07-22T09:00:00+05:30",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://delta-solutions.in/walk-behind-vs-ride-on-scrubber-dryer"
+    "@id": "https://delta-solutions.in/blog/walk-behind-vs-ride-on-scrubber-dryer"
   },
   "breadcrumb": {
     "@type": "BreadcrumbList",
@@ -101,7 +101,7 @@ $excerpt = 'Confused between a Walk Behind Scrubber Dryer and a Ride-On Scrubber
         "@type": "ListItem",
         "position": 3,
         "name": "Walk Behind Scrubber Dryer vs Ride-On Scrubber Dryer: Which One Should You Choose?",
-        "item": "https://delta-solutions.in/walk-behind-vs-ride-on-scrubber-dryer"
+        "item": "https://delta-solutions.in/blog/walk-behind-vs-ride-on-scrubber-dryer"
       }
     ]
   },
@@ -190,7 +190,6 @@ $excerpt = 'Confused between a Walk Behind Scrubber Dryer and a Ride-On Scrubber
 }
 </script>
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
 
 
  <style>
@@ -257,7 +256,7 @@ $excerpt = 'Confused between a Walk Behind Scrubber Dryer and a Ride-On Scrubber
         /* Hero section with featured image */
         .hero-section {
             background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), 
-              url('images/blogs/walk-behind-vs-ride-on-scrubber-dryer.webp'); /* replace with your image */
+              url('/images/blogs/walk-behind-vs-ride-on-scrubber-dryer.webp'); /* replace with your image */
             background-size: cover;
             background-position: center;
             height: 60vh;
@@ -1092,7 +1091,7 @@ $excerpt = 'Confused between a Walk Behind Scrubber Dryer and a Ride-On Scrubber
 
 <p>When evaluating <strong>industrial cleaning equipment</strong>, labour optimization should always be included within the overall return-on-investment calculation.</p>
 
-<p><strong>You may also read: </strong><a href="https://delta-solutions.in/industrial-cleaning-equipment-buyers-guide"><strong>Industrial Cleaning Equipment: The Complete Buyer's Guide for Choosing the Right Machines for Every Facility</strong></a></p>
+<p><strong>You may also read: </strong><a href="https://delta-solutions.in/blog/industrial-cleaning-equipment-buyers-guide"><strong>Industrial Cleaning Equipment: The Complete Buyer's Guide for Choosing the Right Machines for Every Facility</strong></a></p>
 
 <h2>Maintenance Requirements</h2>
 
@@ -1116,7 +1115,7 @@ $excerpt = 'Confused between a Walk Behind Scrubber Dryer and a Ride-On Scrubber
 
 <p>This is why many businesses value experienced solution providers like <strong>Delta Solutions</strong>, who not only recommend appropriate equipment but also support customers through preventive maintenance, technical guidance, and after-sales service.</p>
 
-<p><strong>Also Read: </strong><a href="https://delta-solutions.in/battery-vs-diesel-ride-on-sweeper"><strong>Battery vs Diesel Ride On Sweeper: Choosing the Right Fit for Your Facility</strong></a></p>
+<p><strong>Also Read: </strong><a href="https://delta-solutions.in/blog/battery-vs-diesel-ride-on-sweeper"><strong>Battery vs Diesel Ride On Sweeper: Choosing the Right Fit for Your Facility</strong></a></p>
 
 <h2>Initial Investment vs Long-Term Value</h2>
 
@@ -1333,7 +1332,7 @@ $excerpt = 'Confused between a Walk Behind Scrubber Dryer and a Ride-On Scrubber
 
 <p>Larger corporate campuses with extensive parking facilities, atriums, and common spaces often benefit from Ride-On equipment for outdoor and high-traffic areas.</p>
 
-<p><strong>Read More: </strong><a href="https://delta-solutions.in/which-vacuum-cleaner-is-best-for-industrial-use"><strong>Which Vacuum Cleaner is Best for Industrial Use</strong></a></p>
+<p><strong>Read More: </strong><a href="https://delta-solutions.in/blog/which-vacuum-cleaner-is-best-for-industrial-use"><strong>Which Vacuum Cleaner is Best for Industrial Use</strong></a></p>
 
 <h2>Common Mistakes Businesses Make When Buying a Scrubber Dryer</h2>
 

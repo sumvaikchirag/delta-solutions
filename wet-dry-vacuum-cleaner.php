@@ -79,55 +79,55 @@ $productArray = $product->getAllProduct();
           "@type": "ListItem",
           "position": 1,
           "name": "Karcher Wet and Dry Vacuum - Basic (NT 22/1 Ap L)",
-          "url": "https://delta-solutions.in/wet-and-dry-vacuum-nt-22-1.php"
+          "url": "https://delta-solutions.in/product/wet-and-dry-vacuum-nt-22-1"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Karcher Wet and Dry Vacuum - Standard Class (NT 27/1)",
-          "url": "https://delta-solutions.in/wet-and-dry-vacuum-nt-27-1.php"
+          "url": "https://delta-solutions.in/product/wet-and-dry-vacuum-nt-27-1"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Karcher Wet and Dry Vacuum - Classic metal body (NT 30/1 Me Classic)",
-          "url": "https://delta-solutions.in/wet-and-dry-vacuum-nt-30-1.php"
+          "url": "https://delta-solutions.in/product/wet-and-dry-vacuum-nt-30-1"
         },
         {
           "@type": "ListItem",
           "position": 4,
           "name": "Karcher Wet and Dry Vacuum - Classic metal body (NT 70/2 Me Classic)",
-          "url": "https://delta-solutions.in/wet-and-dry-vacuum-nt-70-2.php"
+          "url": "https://delta-solutions.in/product/wet-and-dry-vacuum-nt-70-2"
         },
         {
           "@type": "ListItem",
           "position": 5,
           "name": "Karcher Wet and Dry Vacuum - Ap Class (NT 40/1 Ap L)",
-          "url": "https://delta-solutions.in/wet-and-dry-vacuum-nt-40-1.php"
+          "url": "https://delta-solutions.in/product/wet-and-dry-vacuum-nt-40-1"
         },
         {
           "@type": "ListItem",
           "position": 6,
           "name": "Karcher Wet and Dry Vacuum - Ap Class (NT 65/2 Ap)",
-          "url": "https://delta-solutions.in/wet-and-dry-vacuum-nt-65-2.php"
+          "url": "https://delta-solutions.in/product/wet-and-dry-vacuum-nt-65-2"
         },
         {
           "@type": "ListItem",
           "position": 7,
           "name": "Karcher Wet and Dry Vacuum - Tact Class (NT 75/2 Tact2 Me)",
-          "url": "https://delta-solutions.in/wet-and-dry-vacuum-nt-75-2.php"
+          "url": "https://delta-solutions.in/product/wet-and-dry-vacuum-nt-75-2"
         },
         {
           "@type": "ListItem",
           "position": 8,
           "name": "Karcher Wet and Dry Vacuum - Ap Class (NT 75/2 Ap Me Tc)",
-          "url": "https://delta-solutions.in/wet-and-dry-vacuum-nt-75-2-ap.php"
+          "url": "https://delta-solutions.in/product/wet-and-dry-vacuum-nt-75-2-ap"
         },
         {
           "@type": "ListItem",
           "position": 9,
           "name": "Karcher Wet and Dry Vacuum - Safety System (NT 75/1 Me Ec H Z22)",
-          "url": "https://delta-solutions.in/wet-and-dry-vacuum-nt-75-1-ec.php"
+          "url": "https://delta-solutions.in/product/wet-and-dry-vacuum-nt-75-1-ec"
         }
       ]
     },
@@ -204,7 +204,6 @@ $productArray = $product->getAllProduct();
 </script>
 <!-- <link rel="stylesheet" href="dist/drift-basic.css"> -->
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0WPY5YR5W4"></script>
 <script>
@@ -298,7 +297,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row clearfix">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
 <div align="center" class="image-box">
-<a href="wet-and-dry-vacuum-nt-22-1.php">
+<a href="/product/wet-and-dry-vacuum-nt-22-1">
 <img alt="Nt 22 1 Ap L - Wet &amp; Dry | Delta Solutions" class="drift-demo-trigger" data-zoom="images/product-images/Cleaning Machines/Wet &amp; Dry/nt-22_1-Ap-L-large.jpg" src="images/product-images/Cleaning Machines/Wet &amp; Dry/nt-22_1-Ap-L.png"/>
 </a>
 </div>
@@ -326,7 +325,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="wet-and-dry-vacuum-nt-22-1.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/wet-and-dry-vacuum-nt-22-1">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["05"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["05"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["05"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["05"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -340,7 +339,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row clearfix">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
 <div align="center" class="image-box">
-<a href="wet-and-dry-vacuum-nt-27-1.php">
+<a href="/product/wet-and-dry-vacuum-nt-27-1">
 <img alt="Nt 27 1 - Wet &amp; Dry | Delta Solutions" class="drift-demo-trigger" data-zoom="images/product-images/Cleaning Machines/Wet &amp; Dry/NT-27_1-large.jpg" src="images/product-images/Cleaning Machines/Wet &amp; Dry/NT-27_1.png"/>
 </a>
 </div>
@@ -368,7 +367,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="wet-and-dry-vacuum-nt-27-1.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/wet-and-dry-vacuum-nt-27-1">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["06"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["06"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["06"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["06"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -382,7 +381,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row clearfix">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
 <div align="center" class="image-box">
-<a href="wet-and-dry-vacuum-nt-30-1.php">
+<a href="/product/wet-and-dry-vacuum-nt-30-1">
 <img alt="Nt 30 1 Me Classic - Wet &amp; Dry | Delta Solutions" class="drift-demo-trigger" data-zoom="images/product-images/Cleaning Machines/Wet &amp; Dry/nt-30_1-me-classic-large.jpg" src="images/product-images/Cleaning Machines/Wet &amp; Dry/nt-30_1-me-classic.png"/>
 </a>
 </div>
@@ -410,7 +409,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="wet-and-dry-vacuum-nt-30-1.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/wet-and-dry-vacuum-nt-30-1">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["07"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["07"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["07"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["07"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -424,7 +423,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row clearfix">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
 <div align="center" class="image-box">
-<a href="wet-and-dry-vacuum-nt-70-2.php">
+<a href="/product/wet-and-dry-vacuum-nt-70-2">
 <img alt="Nt 70 2 Me Classic - Wet &amp; Dry | Delta Solutions" class="drift-demo-trigger" data-zoom="images/product-images/Cleaning Machines/Wet &amp; Dry/NT-70_2-Me-Classic-large.jpg" src="images/product-images/Cleaning Machines/Wet &amp; Dry/NT-70_2-Me-Classic.png"/>
 </a>
 </div>
@@ -452,7 +451,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="wet-and-dry-vacuum-nt-70-2.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/wet-and-dry-vacuum-nt-70-2">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["08"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["08"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["08"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["08"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -466,7 +465,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row clearfix">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
 <div align="center" class="image-box">
-<a href="wet-and-dry-vacuum-nt-40-1.php">
+<a href="/product/wet-and-dry-vacuum-nt-40-1">
 <img alt="Nt 40 1 Ap L - Wet &amp; Dry | Delta Solutions" class="drift-demo-trigger" data-zoom="images/product-images/Cleaning Machines/Wet &amp; Dry/NT-40_1-Ap-L-large.jpg" src="images/product-images/Cleaning Machines/Wet &amp; Dry/NT-40_1-Ap-L.png"/>
 </a>
 </div>
@@ -494,7 +493,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="wet-and-dry-vacuum-nt-40-1.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/wet-and-dry-vacuum-nt-40-1">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["09"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["09"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["09"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["09"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -508,7 +507,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row clearfix">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
 <div align="center" class="image-box">
-<a href="wet-and-dry-vacuum-nt-65-2.php">
+<a href="/product/wet-and-dry-vacuum-nt-65-2">
 <img alt="Nt 65 2 - Wet &amp; Dry | Delta Solutions" class="drift-demo-trigger" data-zoom="images/product-images/Cleaning Machines/Wet &amp; Dry/nt-65_2-large.jpg" src="images/product-images/Cleaning Machines/Wet &amp; Dry/nt-65_2.png"/>
 </a>
 </div>
@@ -536,7 +535,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="wet-and-dry-vacuum-nt-65-2.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/wet-and-dry-vacuum-nt-65-2">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["10"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["10"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["10"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["10"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -550,7 +549,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row clearfix">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
 <div align="center" class="image-box">
-<a href="wet-and-dry-vacuum-nt-75-2.php">
+<a href="/product/wet-and-dry-vacuum-nt-75-2">
 <img alt="75 2 Tact 2 Me - Wet &amp; Dry | Delta Solutions" class="drift-demo-trigger" data-zoom="images/product-images/Cleaning Machines/Wet &amp; Dry/75_2-tact-2-me-large.jpg" src="images/product-images/Cleaning Machines/Wet &amp; Dry/75_2-tact-2-me.png"/>
 </a>
 </div>
@@ -578,7 +577,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="wet-and-dry-vacuum-nt-75-2.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/wet-and-dry-vacuum-nt-75-2">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["11"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["11"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["11"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["11"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -592,7 +591,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row clearfix">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
 <div align="center" class="image-box">
-<a href="wet-and-dry-vacuum-nt-75-2-ap.php">
+<a href="/product/wet-and-dry-vacuum-nt-75-2-ap">
 <img alt="Nt 75 2 Ap Me Tc - Wet &amp; Dry | Delta Solutions" class="drift-demo-trigger" data-zoom="images/product-images/Cleaning Machines/Wet &amp; Dry/NT-75-2-Ap-Me-Tc.jpg" src="images/product-images/Cleaning Machines/Wet &amp; Dry/NT-75-2-Ap-Me-Tc.jpg"/>
 </a>
 </div>
@@ -619,7 +618,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="wet-and-dry-vacuum-nt-75-2-ap.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/wet-and-dry-vacuum-nt-75-2-ap">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["12"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["12"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["12"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["12"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -633,7 +632,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row clearfix">
 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
 <div align="center" class="image-box">
-<a href="wet-and-dry-vacuum-nt-75-1-ec.php">
+<a href="/product/wet-and-dry-vacuum-nt-75-1-ec">
 <img alt="Nt 75 1 Me Ec H Z22 - Wet &amp; Dry | Delta Solutions" class="drift-demo-trigger" data-zoom="images/product-images/Cleaning Machines/Wet &amp; Dry/NT-75-1-Me-Ec-H-Z22.jpg" src="images/product-images/Cleaning Machines/Wet &amp; Dry/NT-75-1-Me-Ec-H-Z22.jpg"/>
 </a>
 </div>
@@ -658,7 +657,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="service-block-two">
 <div class="inner-box">
 <span class="icon"></span>
-<a class="theme-btn btn-style-one" href="wet-and-dry-vacuum-nt-75-1-ec.php">Know More</a>
+<a class="theme-btn btn-style-one" href="/product/wet-and-dry-vacuum-nt-75-1-ec">Know More</a>
 <button type="button" class="theme-btn btn-style-onecart btnAddAction" id="add_<?php echo $productArray["13"]["code"]; ?>" onClick="cartAction('add','<?php echo $productArray["13"]["code"]; ?>')" <?php if($in_session != "0") { ?>style="display:none" <?php } ?>>Add to Enquiry Basket <img src="images/add-to-cart.png" alt="Add to enquiry basket"></button>
 <button type="button" class="theme-btn btn-style-onecart btnAdded" id="added_<?php echo $productArray["13"]["code"]; ?>" <?php if($in_session != "1") { ?>style="display:none" <?php } ?>>Added <img src="images/icon-check.png" alt="Added checkmark"/></button>
 <input type="hidden" id="qty_<?php echo $productArray["13"]["code"]; ?>" name="quantity" value="1" size="2" />
@@ -682,7 +681,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <p>Consider what the machine will collect most often. Is it primarily dry dust and debris, frequent liquid spills, or a combination of both? Think about how long the machine will typically operate, how often the container will need to be emptied, whether fine dust is present, and how easily operators need to move the machine between cleaning areas.</p>
 
-<p>The Kärcher range available through Delta Solutions covers different levels of professional cleaning requirements—from the lightweight <strong><a href="https://delta-solutions.in/wet-and-dry-vacuum-nt-22-1.php">NT 22/1 Ap L</a></strong> to higher-capacity machines such as the <strong><a href="https://delta-solutions.in/wet-and-dry-vacuum-nt-65-2.php">NT 65/2 Ap</a></strong> and <strong>NT 75/2 series</strong>, as well as the specialised <strong><a href="https://delta-solutions.in/wet-and-dry-vacuum-nt-75-1-ec.php">NT 75/1 Me Ec H Z22</a></strong> for defined safety-critical applications.</p>
+<p>The Kärcher range available through Delta Solutions covers different levels of professional cleaning requirements—from the lightweight <strong><a href="https://delta-solutions.in/product/wet-and-dry-vacuum-nt-22-1">NT 22/1 Ap L</a></strong> to higher-capacity machines such as the <strong><a href="https://delta-solutions.in/product/wet-and-dry-vacuum-nt-65-2">NT 65/2 Ap</a></strong> and <strong>NT 75/2 series</strong>, as well as the specialised <strong><a href="https://delta-solutions.in/product/wet-and-dry-vacuum-nt-75-1-ec">NT 75/1 Me Ec H Z22</a></strong> for defined safety-critical applications.</p>
 
 <p>This breadth of choice allows facility managers and purchase teams to select according to the application rather than simply buying the machine with the largest tank or highest rated input power.</p>
 
@@ -692,7 +691,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <h3>Kärcher NT 22/1 Ap L – Compact and Mobile Wet &amp; Dry Cleaning</h3>
 
-<p>The <strong><a href="https://delta-solutions.in/wet-and-dry-vacuum-nt-22-1.php">Kärcher NT 22/1 Ap L</a></strong> is designed for buyers who prioritise mobility without sacrificing professional cleaning performance.</p>
+<p>The <strong><a href="https://delta-solutions.in/product/wet-and-dry-vacuum-nt-22-1">Kärcher NT 22/1 Ap L</a></strong> is designed for buyers who prioritise mobility without sacrificing professional cleaning performance.</p>
 
 <p>With a <strong>22-litre container</strong>, airflow of <strong>71 l/s</strong>, vacuum of <strong>255 mbar (25.5 kPa)</strong> and a machine weight of just <strong>5.7 kg</strong>, it is particularly suitable where operators frequently move the vacuum between different cleaning locations.</p>
 
@@ -704,7 +703,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <h3>Kärcher NT 27/1 – Practical Choice for Everyday Commercial Cleaning</h3>
 
-<p>The <strong><a href="https://delta-solutions.in/wet-and-dry-vacuum-nt-27-1.php">Kärcher NT 27/1</a></strong> combines a <strong>27-litre container</strong> with a compact, user-friendly design intended for commercial wet and dry cleaning.</p>
+<p>The <strong><a href="https://delta-solutions.in/product/wet-and-dry-vacuum-nt-27-1">Kärcher NT 27/1</a></strong> combines a <strong>27-litre container</strong> with a compact, user-friendly design intended for commercial wet and dry cleaning.</p>
 
 <p>It delivers airflow of <strong>67 l/s</strong> and vacuum pressure of <strong>200 mbar (20 kPa)</strong>. A practical feature for busy commercial environments is the all-round bumper, which helps protect the machine against knocks during everyday use.</p>
 
@@ -714,7 +713,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <h3>Kärcher NT 30/1 Me Classic – Compact Vacuum with a Metal Container</h3>
 
-<p>The <strong><a href="https://delta-solutions.in/wet-and-dry-vacuum-nt-30-1.php">NT 30/1 Me Classic</a></strong> is positioned for professional users who want the durability of a metal-bodied wet and dry vacuum without moving to a significantly larger machine.</p>
+<p>The <strong><a href="https://delta-solutions.in/product/wet-and-dry-vacuum-nt-30-1">NT 30/1 Me Classic</a></strong> is positioned for professional users who want the durability of a metal-bodied wet and dry vacuum without moving to a significantly larger machine.</p>
 
 <p>Its <strong>30-litre stainless-steel container</strong> provides additional robustness for demanding professional environments, while its compact construction helps maintain mobility.</p>
 
@@ -752,7 +751,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <h3>Kärcher NT 40/1 Ap L – Versatile 40-Litre Vacuum with Semi-Automatic Filter Cleaning</h3>
 
-<p>The <strong><a href="https://delta-solutions.in/wet-and-dry-vacuum-nt-40-1.php">Kärcher NT 40/1 Ap L</a></strong> is designed for professional users who need more collection capacity while still prioritising ease of operation and consistent suction performance.</p>
+<p>The <strong><a href="https://delta-solutions.in/product/wet-and-dry-vacuum-nt-40-1">Kärcher NT 40/1 Ap L</a></strong> is designed for professional users who need more collection capacity while still prioritising ease of operation and consistent suction performance.</p>
 
 <p>Its <strong>40-litre tank</strong> makes it suitable for applications where a compact vacuum may require frequent emptying. More importantly, the machine features a <strong>semi-automatic filter cleaning system</strong>, helping maintain effective suction during demanding dry-cleaning tasks.</p>
 
@@ -764,7 +763,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <h3>Kärcher NT 65/2 Ap – Dual-Motor Performance for Demanding Cleaning</h3>
 
-<p>For facilities dealing with larger dirt volumes and longer cleaning intervals, the <strong><a href="https://delta-solutions.in/wet-and-dry-vacuum-nt-65-2.php">Kärcher NT 65/2 Ap</a></strong> represents a considerable step up in capacity and performance.</p>
+<p>For facilities dealing with larger dirt volumes and longer cleaning intervals, the <strong><a href="https://delta-solutions.in/product/wet-and-dry-vacuum-nt-65-2">Kärcher NT 65/2 Ap</a></strong> represents a considerable step up in capacity and performance.</p>
 
 <p>It combines a <strong>65-litre container</strong> with <strong>two motors</strong>, airflow of <strong>2 × 74 l/s</strong>, vacuum pressure of <strong>254 mbar (25.4 kPa)</strong> and maximum rated input power of <strong>2760 W</strong>.</p>
 
@@ -778,7 +777,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <h3>Kärcher NT 75/2 Tact2 Me – Consistent Suction for Intensive Professional Use</h3>
 
-<p>The <strong><a href="https://delta-solutions.in/wet-and-dry-vacuum-nt-75-2.php">Kärcher NT 75/2 Tact2 Me</a></strong> is aimed at demanding applications where maintaining high suction performance over longer cleaning periods is particularly important.</p>
+<p>The <strong><a href="https://delta-solutions.in/product/wet-and-dry-vacuum-nt-75-2">Kärcher NT 75/2 Tact2 Me</a></strong> is aimed at demanding applications where maintaining high suction performance over longer cleaning periods is particularly important.</p>
 
 <p>Its configuration includes a <strong>75-litre stainless-steel container</strong>, <strong>two motors</strong>, airflow of <strong>2 × 74 l/s</strong>, vacuum pressure of <strong>254 mbar (25.4 kPa)</strong> and maximum rated input power of <strong>2760 W</strong>.</p>
 
@@ -792,7 +791,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <h3>Kärcher NT 75/2 Ap Me Tc – High-Capacity Cleaning with ApClean</h3>
 
-<p>The <strong><a href="https://delta-solutions.in/wet-and-dry-vacuum-nt-75-2-ap.php">Kärcher NT 75/2 Ap Me Tc</a></strong> combines high-volume collection with features designed to make demanding wet and dry cleaning more manageable for operators.</p>
+<p>The <strong><a href="https://delta-solutions.in/product/wet-and-dry-vacuum-nt-75-2-ap">Kärcher NT 75/2 Ap Me Tc</a></strong> combines high-volume collection with features designed to make demanding wet and dry cleaning more manageable for operators.</p>
 
 <p>It has a <strong>75-litre stainless-steel container</strong>, <strong>two motors</strong>, airflow of <strong>2 × 74 l/s</strong>, vacuum pressure of <strong>254 mbar (25.4 kPa)</strong> and maximum rated input power of <strong>2760 W</strong>.</p>
 
@@ -806,7 +805,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <h3>Kärcher NT 75/1 Me Ec H Z22 – Specialised Safety Vacuum for Defined Dust Hazards</h3>
 
-<p>The <strong><a href="https://delta-solutions.in/wet-and-dry-vacuum-nt-75-1-ec.php">Kärcher NT 75/1 Me Ec H Z22</a></strong> is fundamentally different from the general-purpose machines elsewhere in the range.</p>
+<p>The <strong><a href="https://delta-solutions.in/product/wet-and-dry-vacuum-nt-75-1-ec">Kärcher NT 75/1 Me Ec H Z22</a></strong> is fundamentally different from the general-purpose machines elsewhere in the range.</p>
 
 <p>According to the product information supplied, this is a <strong>safety vacuum cleaner intended for potentially explosive atmospheres classified as Hazard Zone 22</strong> and for the collection of combustible and health-endangering dust within its specified suitability.</p>
 
@@ -925,7 +924,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <h3>Tact: Designed Around Sustained Filter Performance</h3>
 
-<p>For more intensive dust collection, the <strong><a href="https://delta-solutions.in/wet-and-dry-vacuum-nt-75-2.php">NT 75/2 Tact2 Me</a></strong> brings a more advanced filter-cleaning approach into the range.</p>
+<p>For more intensive dust collection, the <strong><a href="https://delta-solutions.in/product/wet-and-dry-vacuum-nt-75-2">NT 75/2 Tact2 Me</a></strong> brings a more advanced filter-cleaning approach into the range.</p>
 
 <p>Rather than treating this simply as another 75-litre vacuum, buyers should consider it where maintaining strong suction during demanding dust collection is central to productivity.</p>
 
@@ -959,7 +958,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <p>But larger machines also occupy more space and are heavier to manoeuvre.</p>
 
-<p>Conversely, the <a href="https://delta-solutions.in/wet-and-dry-vacuum-nt-22-1.php">22-litre NT 22/1 Ap L</a> may require more frequent emptying under a high-volume workload, yet its low weight and compact dimensions can be a major advantage when the machine needs to move frequently between locations.</p>
+<p>Conversely, the <a href="https://delta-solutions.in/product/wet-and-dry-vacuum-nt-22-1">22-litre NT 22/1 Ap L</a> may require more frequent emptying under a high-volume workload, yet its low weight and compact dimensions can be a major advantage when the machine needs to move frequently between locations.</p>
 
 <p>A useful purchasing principle is:</p>
 
@@ -986,7 +985,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <p>And where combustible or health-endangering dust may be present, general-purpose selection criteria are not enough. The dust and working environment need to be assessed against the stated suitability of the equipment.</p>
 
-<p>The <strong><a href="https://delta-solutions.in/wet-and-dry-vacuum-nt-75-1-ec.php">NT 75/1 Me Ec H Z22</a></strong>, for example, is positioned in the supplied information as a specialised safety vacuum rather than simply another high-capacity wet and dry machine.</p>
+<p>The <strong><a href="https://delta-solutions.in/product/wet-and-dry-vacuum-nt-75-1-ec">NT 75/1 Me Ec H Z22</a></strong>, for example, is positioned in the supplied information as a specialised safety vacuum rather than simply another high-capacity wet and dry machine.</p>
 
 <h3>Compare Airflow and Vacuum Performance, Not Wattage Alone</h3>
 
@@ -1008,7 +1007,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <p>Container size affects how frequently operators need to interrupt cleaning to empty collected material.</p>
 
-<p>For relatively mobile cleaning requirements, the <strong><a href="https://delta-solutions.in/wet-and-dry-vacuum-nt-22-1.php">22-litre NT 22/1 Ap L</a></strong> or <strong><a href="https://delta-solutions.in/wet-and-dry-vacuum-nt-27-1.php">27-litre NT 27/1</a></strong> can provide a more manageable footprint. The NT 30/1 Me Classic moves into the 30-litre class while adding the robustness of a metal container, based on the supplied product description.</p>
+<p>For relatively mobile cleaning requirements, the <strong><a href="https://delta-solutions.in/product/wet-and-dry-vacuum-nt-22-1">22-litre NT 22/1 Ap L</a></strong> or <strong><a href="https://delta-solutions.in/product/wet-and-dry-vacuum-nt-27-1">27-litre NT 27/1</a></strong> can provide a more manageable footprint. The NT 30/1 Me Classic moves into the 30-litre class while adding the robustness of a metal container, based on the supplied product description.</p>
 
 <p>As waste volumes increase, larger models become more relevant. The range then progresses through the NT 40/1 Ap L and NT 65/2 Ap to multiple 75-litre options.</p>
 
@@ -1026,9 +1025,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <p>Several machines within Delta Solutions' range address this requirement differently.</p>
 
-<p>The <strong>NT 22/1 Ap L</strong> incorporates semi-automatic filter cleaning while retaining a compact design. The supplied information for the <strong><a href="https://delta-solutions.in/wet-and-dry-vacuum-nt-40-1.php">NT 40/1 Ap L</a></strong> similarly highlights semi-automatic filter cleaning and its suitability for removing fine dust without a filter bag.</p>
+<p>The <strong>NT 22/1 Ap L</strong> incorporates semi-automatic filter cleaning while retaining a compact design. The supplied information for the <strong><a href="https://delta-solutions.in/product/wet-and-dry-vacuum-nt-40-1">NT 40/1 Ap L</a></strong> similarly highlights semi-automatic filter cleaning and its suitability for removing fine dust without a filter bag.</p>
 
-<p>At the higher-capacity end, the <strong><a href="https://delta-solutions.in/wet-and-dry-vacuum-nt-75-2-ap.php">NT 75/2 Ap Me Tc</a></strong> uses the ApClean semi-automatic filter cleaning system, while the <strong><a href="https://delta-solutions.in/wet-and-dry-vacuum-nt-75-2.php">NT 75/2 Tact2 Me</a></strong> is positioned around consistently high suction performance and Tact2 filter cleaning.</p>
+<p>At the higher-capacity end, the <strong><a href="https://delta-solutions.in/product/wet-and-dry-vacuum-nt-75-2-ap">NT 75/2 Ap Me Tc</a></strong> uses the ApClean semi-automatic filter cleaning system, while the <strong><a href="https://delta-solutions.in/product/wet-and-dry-vacuum-nt-75-2">NT 75/2 Tact2 Me</a></strong> is positioned around consistently high suction performance and Tact2 filter cleaning.</p>
 
 <p>For a facility that primarily collects liquids or coarse debris occasionally, sophisticated filter cleaning may carry less weight in the purchasing decision. Where significant quantities of dry dust are collected, however, maintaining filter performance can have a much greater effect on productivity.</p>
 
@@ -1052,7 +1051,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <p>Compact machines such as the NT 22/1 Ap L and NT 27/1 use a single motor and are intended for requirements where mobility and manageable dimensions are valuable.</p>
 
-<p>For more demanding applications, machines such as the <strong>NT 65/2 Ap, <a href="https://delta-solutions.in/wet-and-dry-vacuum-nt-75-2.php">NT 75/2 Tact2 Me</a> and <a href="https://delta-solutions.in/wet-and-dry-vacuum-nt-75-2-ap.php">NT 75/2 Ap Me Tc</a></strong> use two motors alongside larger containers.</p>
+<p>For more demanding applications, machines such as the <strong>NT 65/2 Ap, <a href="https://delta-solutions.in/product/wet-and-dry-vacuum-nt-75-2">NT 75/2 Tact2 Me</a> and <a href="https://delta-solutions.in/product/wet-and-dry-vacuum-nt-75-2-ap">NT 75/2 Ap Me Tc</a></strong> use two motors alongside larger containers.</p>
 
 <p>The decision should therefore reflect workload rather than an assumption that more motors automatically mean a better vacuum.</p>
 
@@ -1062,7 +1061,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <p>Both materials appear within the available Kärcher range.</p>
 
-<p>Models such as the <strong>NT 22/1 Ap L, <a href="https://delta-solutions.in/wet-and-dry-vacuum-nt-27-1.php">NT 27/1</a> and NT 65/2 Ap</strong> are listed with plastic containers, while models including the NT 30/1 Me Classic, NT 70/2 Me Classic, NT 75/2 Tact2 Me and NT 75/2 Ap Me Tc use stainless-steel containers according to the information supplied.</p>
+<p>Models such as the <strong>NT 22/1 Ap L, <a href="https://delta-solutions.in/product/wet-and-dry-vacuum-nt-27-1">NT 27/1</a> and NT 65/2 Ap</strong> are listed with plastic containers, while models including the NT 30/1 Me Classic, NT 70/2 Me Classic, NT 75/2 Tact2 Me and NT 75/2 Ap Me Tc use stainless-steel containers according to the information supplied.</p>
 
 <p>A plastic container can contribute to lower machine weight and easier handling. Stainless steel provides a robust container construction that can be attractive in more demanding professional environments.</p>
 
@@ -1195,7 +1194,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <p>The right <strong>Wet and Dry Vacuum Cleaner</strong> should make professional cleaning easier—not introduce additional interruptions, unnecessary capacity or unsuitable features.</p>
 
-<p>For mobile and relatively compact cleaning requirements, machines such as the <a href="https://delta-solutions.in/wet-and-dry-vacuum-nt-22-1.php">NT 22/1 Ap L</a> or NT 27/1 may offer the practicality buyers need. As dirt volumes and operating requirements increase, the range extends into 40-, 65-, 70- and 75-litre configurations, including dual-motor and advanced filter-cleaning options. Specialised requirements involving particular dust hazards need a more application-specific assessment.</p>
+<p>For mobile and relatively compact cleaning requirements, machines such as the <a href="https://delta-solutions.in/product/wet-and-dry-vacuum-nt-22-1">NT 22/1 Ap L</a> or NT 27/1 may offer the practicality buyers need. As dirt volumes and operating requirements increase, the range extends into 40-, 65-, 70- and 75-litre configurations, including dual-motor and advanced filter-cleaning options. Specialised requirements involving particular dust hazards need a more application-specific assessment.</p>
 
 <p>That is also why searching for the <strong>Best Wet and Dry Vacuum Cleaner in India</strong> should not end with comparing wattage and container size.</p>
 

@@ -17,7 +17,9 @@ $productArray = $product->getAllProduct();
 <html>
 <head>
 <meta charset="utf-8"/>
-<title>Products</title>
+<title>Mops &amp; Handles - Cleaning Tools | Delta Solutions</title>
+<link rel="canonical" href="https://delta-solutions.in/cleaning-tools-mops"/>
+<meta name="description" content="Mops &amp; Handles - Cleaning Tools from Delta Solutions. View product details, technical data and download the data sheet, or send an enquiry."/>
 <!-- Stylesheets -->
 <link href="css/bootstrap.css" rel="stylesheet"/>
 <link href="css/style.css" rel="stylesheet"/>
@@ -30,7 +32,6 @@ $productArray = $product->getAllProduct();
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/>
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0WPY5YR5W4"></script>
 <script>
@@ -797,8 +798,6 @@ $productArray = $product->getAllProduct();
 <script src="js/wow.js"></script>
 <script src="js/script.js"></script>
 <!--Google Map APi Key-->
-<script src="http://maps.google.com/maps/api/js?key=AIzaSyDTPlX-43R1TpcQUyWjFgiSfL_BiGxslZU"></script>
-<script src="js/map-script.js"></script>
 <script type="text/javascript">
 $(document).ready(function () {
         $('.products').addClass('current');

@@ -10,6 +10,7 @@
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet">
 <link href="css/responsive.css" rel="stylesheet">
+<style>.story-section .content-column h1{position:relative;display:block;font-size:24px;color:#303030;font-weight:600;font-family:"Open Sans",sans-serif;line-height:32px;margin-bottom:20px}@media only screen and (max-width:599px){.story-section .content-column h1{font-size:18px;line-height:26px}}</style>
 
 
 <!--Favicon-->
@@ -23,7 +24,6 @@
 <meta name="description" content="Delta Solutions is a family owned company with the passion to elevate the cleaning and hygiene standard at your workplace.You have a cleaning need, we have a solution for you. Learn more.">
 
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-0WPY5YR5W4"></script>
@@ -115,7 +115,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row clearfix">
                 <div class="content-column col-md-12 col-sm-12 col-xs-12">
                     <div class="inner-column">
-                        <h3>What is a workplace without proper cleanliness and hygiene standards? <br>We all know the answer to that, don’t we?</h3>
+                        <h1>What is a workplace without proper cleanliness and hygiene standards? <br>We all know the answer to that, don’t we?</h1>
                         <div class="text">
                             <p>We, at Delta Solutions, always believe in maintaining cleanliness for everything; be it your room, your office or even your mind.Never settling for the basics, we challenge the status quo of hygiene levels at workplaces in order to elevate the cleaning and hygiene standards for our clients.</p>
 
@@ -157,8 +157,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script src="js/wow.js"></script>
 <script src="js/script.js"></script>
 <!--Google Map APi Key-->
-<script src="https://maps.google.com/maps/api/js?key=AIzaSyDTPlX-43R1TpcQUyWjFgiSfL_BiGxslZU"></script>
-<script src="js/map-script.js"></script>
 
 <script type="text/javascript">
 $(document).ready(function () {

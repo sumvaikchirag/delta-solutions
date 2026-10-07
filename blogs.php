@@ -9,7 +9,7 @@ $blogs = [
     "date" => "2025-12-19", 
     "category" => "Sweepers",
     "image"=> "/images/blogs/battery-vs-diesel-ride-on-sweeper.webp",
-    "link"=>"battery-vs-diesel-ride-on-sweeper",
+    "link"=>"/blog/battery-vs-diesel-ride-on-sweeper",
   ],
   [
     "id" => 2,
@@ -19,7 +19,7 @@ $blogs = [
     "date" => "2025-08-23", 
     "category" => "Vacuum Cleaners",
     "image"=> "/images/blogs/which-vacuum-cleaner-is-best-for-industrial-use.png",
-    "link"=>"which-vacuum-cleaner-is-best-for-industrial-use",
+    "link"=>"/blog/which-vacuum-cleaner-is-best-for-industrial-use",
   ],
   [
   "id" => 3,
@@ -29,7 +29,7 @@ $blogs = [
   "date" => "2026-07-16", 
   "category" => "Industrial Cleaning",
   "image"=> "/images/blogs/industrial-cleaning-equipment-the-complete-buyers-guide.webp",
-  "link"=>"industrial-cleaning-equipment-buyers-guide",
+  "link"=>"/blog/industrial-cleaning-equipment-buyers-guide",
 ],
  [
   "id" => 4,
@@ -39,7 +39,7 @@ $blogs = [
   "date" => "2026-08-20", 
   "category" => "Vacuum Cleaners",
   "image"=> "/images/blogs/industrial-vacuum-cleaner-vs-wet-dry-vacuum-cleaner.webp",
-  "link"=>"industrial-vacuum-cleaner-vs-wet-dry-vacuum-cleaner",
+  "link"=>"/blog/industrial-vacuum-cleaner-vs-wet-dry-vacuum-cleaner",
 ],
   [
   "id" => 5,
@@ -49,7 +49,27 @@ $blogs = [
   "date" => "2026-08-24", 
   "category" => "Vacuum Cleaners",
   "image"=> "/images/blogs/wet-and-dry-vacuum-cleaner-complete-buying-guide.webp",
-  "link"=>"wet-and-dry-vacuum-cleaner-buying-guide",
+  "link"=>"/blog/wet-and-dry-vacuum-cleaner-buying-guide",
+],
+  [
+  "id" => 6,
+  "title" => "Wet and Dry Vacuum Cleaner vs Regular Vacuum Cleaner: What's the Difference?",
+  "excerpt" => "Wet and dry vacuum cleaner vs regular vacuum: compare liquid pickup, capacity, filtration, applications and learn which type suits your cleaning needs.",
+  "author" => "Admin",
+  "date" => "2026-09-15",
+  "category" => "Vacuum Cleaners",
+  "image"=> "/images/blogs/wet-and-dry-vacuum-cleaner-vs-regular-vacuum.webp",
+  "link"=>"/blog/wet-and-dry-vacuum-cleaner-vs-regular-vacuum",
+],
+  [
+  "id" => 7,
+  "title" => "How Does a Wet and Dry Vacuum Cleaner Work?",
+  "excerpt" => "Learn how a wet and dry vacuum cleaner works, from suction and airflow to filtration, liquid pickup, float protection and the factors that affect professional vacuum performance.",
+  "author" => "Admin",
+  "date" => "2026-09-27",
+  "category" => "Vacuum Cleaners",
+  "image"=> "/images/blogs/how-does-a-wet-and-dry-vacuum-cleaner-work.webp",
+  "link"=>"/blog/how-does-a-wet-and-dry-vacuum-cleaner-work",
 ],
 ];
 
@@ -104,7 +124,6 @@ usort($blogs, function ($a, $b) {
 
 
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
 <!-- Global site tag (gtag.js) - Google Analytics -->
 
 <script type="application/ld+json">
@@ -126,7 +145,7 @@ usort($blogs, function ($a, $b) {
         {
           "@type": "BlogPosting",
           "headline": "Which Vacuum Cleaner is Best for Industrial Use",
-          "url": "https://delta-solutions.in/blogs/which-vacuum-cleaner-is-best-for-industrial-use",
+          "url": "https://delta-solutions.in/blog/which-vacuum-cleaner-is-best-for-industrial-use",
           "datePublished": "2025-08-22T09:00:00+05:30",
           "author": {
             "@type": "Person",
@@ -173,11 +192,6 @@ usort($blogs, function ($a, $b) {
       "width": 600,
       "height": 60
     }
-  },
-  "potentialAction": {
-    "@type": "SearchAction",
-    "target": "https://delta-solutions.in/search?q={search_term_string}",
-    "query-input": "required name=search_term_string"
   }
 }
 </script>
